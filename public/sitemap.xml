@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://datatogether.org/public-record/</loc>
+    <lastmod>2017-07-24T23:00:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/activities/analyzing/</loc>
+    <lastmod>2017-07-24T22:44:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/activities/storing/</loc>
+    <lastmod>2017-07-24T22:44:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/activities/monitoring/</loc>
+    <lastmod>2017-07-24T22:44:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/activities/harvesting/</loc>
+    <lastmod>2017-07-24T22:40:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/activities/</loc>
+    <lastmod>2017-07-24T22:44:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/</loc>
+    <lastmod>2017-07-24T23:00:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://datatogether.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

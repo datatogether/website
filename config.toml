@@ -1,0 +1,26 @@
+baseURL = "http://datatogether.org/"
+languageCode = "en-us"
+title = "Data Together"
+theme = "datatogether"
+
+[permalinks]
+blog = ":slug/"
+
+[params]
+IsDev = false
+Author = "Data Together"
+CacheBuster = true
+DateForm = "Jan 2, 2006"
+DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
+Description = "Community-Based Data"
+# Email = "info@qri.io"
+# FaviconFile = "img/leaf.ico"
+# GATracker = "XYZ"
+# SegmentTracker= "b4iAxJT8ISitRFQ6qZGS9w7RTnaOpvju"
+# GitHub = "//github.com/qri-io"
+# HighlightJS = true
+# Initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
+# Lang = "en"
+# LinkedIn = "//linkedin.com/in/you"
+# Twitter = "//twitter.com/qri_io"
+# ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.

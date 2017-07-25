@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body lang="{{ .Site.Params.Lang }}">
+  <div id="root">
+  <div class="app">
+    <div id="navbar" style="position: absolute; width: 966px; height: 50px; left: 0px; top: 0px;">
+      <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+              <a id="logotype">[ data, together ]</a>
+            </div>
+            <div class="menu col-md-4 offset-md-2 col-sm-6">
+              <a class="green toggle-menu">Menu</a>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div id="main_menu" class="hide">
+      <a class="blue" href="/">Home</a>
+      <a class="blue" href="/public-record">Public Record</a>
+      <a class="red section-title" href="/activities">Activities</a>
+      <a class="red sub" href="/activities/harvesting">Harvesting</a>
+      <a class="red sub" href="/activities/monitoring">Monitoring</a>
+      <a class="red sub" href="/activities/storing">Storing</a>
+      <a class="red sub" href="/activities/analyzing">Analyzing</a>
+    </div>
+
