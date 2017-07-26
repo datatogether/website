@@ -17,43 +17,47 @@
       <pubDate>Mon, 24 Jul 2017 23:00:29 -0400</pubDate>
       
       <guid>http://datatogether.org/public-record/</guid>
-      <description></description>
+      <description>Embracing a decentralized web naturally highlights the need for a Public Record &amp;ndash; a shared record of the information that has been published by the plethora of entities on the web. A key aspect of the public record is to provide a basis for knowing who produced certain information and when they produced it. Ideally this aggregate dataset, the public record, should be stored and updated in a decentralized fashion.</description>
     </item>
     
     <item>
-      <title>Analyzing</title>
-      <link>http://datatogether.org/activities/analyzing/</link>
-      <pubDate>Mon, 24 Jul 2017 22:44:52 -0400</pubDate>
+      <title>Rescuing Data Together</title>
+      <link>http://datatogether.org/activities/rescuing/</link>
+      <pubDate>Mon, 24 Jul 2017 22:44:45 -0400</pubDate>
       
-      <guid>http://datatogether.org/activities/analyzing/</guid>
-      <description> Harvesting </description>
+      <guid>http://datatogether.org/activities/rescuing/</guid>
+      <description>Rescuing Data The activity of rescuing data involves a combination of Harvesting, Storing and Monitoring data, with an added sense of urgency. It’s triggered when people lose faith in the entities who have been storing their data. When this occurs, the people who feel their data are in danger scramble to decentralize the data, moving multiple copies into multiple hands.
+The social phenomenon of data rescue is largely a response to the precariousness of a centralized web.</description>
     </item>
     
     <item>
-      <title>Storing</title>
+      <title>Storing Data Together</title>
       <link>http://datatogether.org/activities/storing/</link>
       <pubDate>Mon, 24 Jul 2017 22:44:45 -0400</pubDate>
       
       <guid>http://datatogether.org/activities/storing/</guid>
-      <description> Storing </description>
+      <description>Storing Data Together Concepts:  Location-addressing: Cryptographic Hashes as Identifiers Location-addressed storage, P2P storage Pinning and Pin Sets  Examples of Communities Storing Data Together Please suggest additions for this list by submitting issues on github
+ LOCKSS: Lots Of Copies Keep Stuff Safe DPN: Digital Preservation Network The common use of mirror websites (ie. linux mirrors) World Data Center  Tools for Storing Data Together Please suggest additions for this list by submitting issues on github</description>
     </item>
     
     <item>
-      <title>Monitoring</title>
+      <title>Monitoring Data Together</title>
       <link>http://datatogether.org/activities/monitoring/</link>
       <pubDate>Mon, 24 Jul 2017 22:44:23 -0400</pubDate>
       
       <guid>http://datatogether.org/activities/monitoring/</guid>
-      <description> Monitoring </description>
+      <description>Monitoring Datasets In many cases it’s not enough to harvest and store data. You must also monitor the sources of those data, watching for changes. Additions, deletions, new releases, changes in availability such as new paywalls &amp;ndash; these are all important events that affect the integrity of data.
+Another aspect of monitoring is the need for a Public Record &amp;ndash; a shared record of the information that has been published by the plethora of entities on the web.</description>
     </item>
     
     <item>
-      <title>Harvesting</title>
+      <title>Harvesting Data Together</title>
       <link>http://datatogether.org/activities/harvesting/</link>
       <pubDate>Mon, 24 Jul 2017 22:40:59 -0400</pubDate>
       
       <guid>http://datatogether.org/activities/harvesting/</guid>
-      <description> Harvesting </description>
+      <description>Harvesting Data From the Centralized Web In the context of Data Together, one prevalent pattern is the activity of communities Harvesting Data from centralized locations to other locations, often moving to decentralized systems.
+This kind of harvesting is especially hard because the data are often arranged and exposed with the assumption that they will only ever be stored in a central location and will only ever be linked using location addresses.</description>
     </item>
     
   </channel>
