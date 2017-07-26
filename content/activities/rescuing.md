@@ -11,6 +11,8 @@ The activity of _rescuing_ data involves a combination of Harvesting, Storing an
 The social phenomenon of data rescue is largely a response to the precariousness of a centralized web. With decentralized technologies people do not have to put their faith into any individual entity or location to house their data. Moving to new, safer locations or replicating it across many locations is an easy operation to carry out if you are using decentralized approaches.
 
 ## Examples of Communities Rescuing Data
-- TODO: GeoCities
-- TODO: Data Rescue (climate data): Canadian (2007?), ClimateMirror, DataRefuge, Azimuth, EDGI
-- TODO: Soundcloud
+_Please suggest additions for this list by submitting issues [on github](https://github.com/datatogether/website)_
+
+- GeoCities
+- Government Data Rescue (climate data): Canadian (2007?), ClimateMirror, DataRefuge, Azimuth, EDGI
+- Soundcloud

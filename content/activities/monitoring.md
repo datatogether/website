@@ -11,8 +11,13 @@ In many cases it’s not enough to [harvest](./harvesting) and [store](./storing
 Another aspect of monitoring is the need for a **[Public Record](../public-record)** _-- a shared record of the information that has been published by the plethora of entities on the web._ A key aspect of the public record is to provide a basis for knowing _who_ produced certain information and _when_ they produced it. [Read more about the role of the public record in the Data Together model.](../public-record)
 
 ## Examples of Communities Monitoring Data
-- EDGI Dataset Monitoring project
-- datatogether.org/publicrecord
+
+_Please suggest additions for this list by submitting issues [on github](https://github.com/datatogether/website)_
+
+- [EDGI Website Monitoring project](https://envirodatagov.org/website-monitoring/)
 
 ## Tools for Monitoring Data
-- TODO: EDGI Dataset Monitoring tools
+
+_Please suggest additions for this list by submitting issues [on github](https://github.com/datatogether/website)_
+
+- [EDGI Website Monitoring tools](https://github.com/edgi-govdata-archiving/web-monitoring)
