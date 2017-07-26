@@ -32,5 +32,13 @@
 	}
 }
 
+@media screen and (max-width: 480px) {
+	#navbar {
+		#logotype {
+			font-size: 1em;
+			letter-spacing: 0;
+		}
+	}
+}
 
 
