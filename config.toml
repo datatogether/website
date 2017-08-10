@@ -1,18 +1,15 @@
-baseURL = "http://datatogether.org/"
+baseURL = "http://datatogether.org"
+relativeURLs = true
 languageCode = "en-us"
 title = "Data Together"
 theme = "datatogether"
 
-[permalinks]
-blog = ":slug/"
+# [permalinks]
+# blog = ":slug/"
 
-[params]
-IsDev = false
-Author = "Data Together"
-CacheBuster = true
-DateForm = "Jan 2, 2006"
-DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
-Description = "Community-Based Data"
+# [params]
+# Author = "Data Together"
+# Description = "Community-Based Data"
 # Email = "info@qri.io"
 # FaviconFile = "img/leaf.ico"
 # GATracker = "XYZ"
@@ -24,3 +21,15 @@ Description = "Community-Based Data"
 # LinkedIn = "//linkedin.com/in/you"
 # Twitter = "//twitter.com/qri_io"
 # ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
+
+[params]
+  domain = "datatogether.org"
+  name = "Data Together"
+  title = "Data Together"
+  description = "Communities stewarding data together."
+  author = "Data Together"
+  github = "https://github.com/datatogether"
+  cacheBuster = true
+  dateForm = "Jan 2, 2006"
+  dateFormFull = "Mon Jan 2 2006 15:04:05 MST"
+  social = [ ]

@@ -4,7 +4,7 @@
   <header class="colorized">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <hr class="">
           <!-- <label class="label">activity</label> -->
           <h3 class="title">{{ .Title }}</h3>
@@ -14,7 +14,11 @@
     </div>
   </header>
   <div class="container content">
-    {{ .Content }}
+    <div class="row">
+      <div class="col-md-10 col-sm-12">
+        {{ .Content }}
+      </div>
+    </div>
   </div>
 </div>
 

@@ -168,3 +168,12 @@ mark,
   }
   // scss-lint:enable QualifyingElement
 }
+
+// Scaling type with screen width
+// TODO - bring into compatibility with bootstrap
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+}
+
