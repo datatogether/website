@@ -2,6 +2,7 @@
   margin: 2em 0 0 0;
   padding-bottom: 0;
   background: $slate;
+  color: white;
 
   .masthead {
     // background: top center url("https://s3.us-east-2.amazonaws.com/static.archivers.space/clouds.png") repeat-x;
@@ -36,19 +37,26 @@
     //   display: block;
     // }
   }
+}
 
-  .signup {
-    margin-top: 10em;
-    .text {
-      margin-top: 35px;
-      margin-bottom: 35px;
-      color: white;
+@media screen and (max-width: 480px) {
+  #home {
+    padding-bottom: 3em;
+    
+    .masthead {
+      padding-top: 50px;
+      min-height: 100%;
+
+      .tagline {
+        margin: 2em auto 2em auto;
+        max-width: 100%;
+      }
     }
     .image {
-      text-align: center;
+      width: 80%;
+      margin: 0 auto;
       img {
-        margin: 0 auto;
-        max-width: 300px;
+        width: 100%;
       }
     }
   }
