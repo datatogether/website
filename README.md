@@ -4,9 +4,9 @@
 
 [![GitHub](https://img.shields.io/badge/project-Data_Together-487b57.svg?style=flat-square)](http://github.com/datatogether)
 [![Slack](https://img.shields.io/badge/slack-Archivers-b44e88.svg?style=flat-square)](https://archivers-slack.herokuapp.com/)
-[![License](https://img.shields.io/github/license/datatogether/website.svg)](./LICENSE) 
+[![License](https://img.shields.io/github/license/datatogether/website.svg)](./LICENSE)
 
-The Data Together Website represents our collective commitment to support the development of a decentralized web that aggregates and preserves the public record, with attention to provenance and trustworthiness of our data.
+A static-generated website to introduce the Data Together project, built with [Hugo](https://gohugo.io/). The website describes our collective commitment to support the development of a decentralized web that aggregates and preserves the public record, with attention to provenance and trustworthiness of our data.
 
 ## License
 
@@ -14,7 +14,7 @@ The Data Together Website represents our collective commitment to support the de
 
 ## Getting Involved
 
-We would love involvement from more people! If you notice any errors or would like to submit changes, please see our [Contributing Guidelines](./.github/CONTRIBUTING.md). 
+We would love involvement from more people! If you notice any errors or would like to submit changes, please see our [Contributing Guidelines](./.github/CONTRIBUTING.md).
 
 We use GitHub issues for [tracking bugs and feature requests](https://github.com/datatogether/website/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/website/pulls)
 
