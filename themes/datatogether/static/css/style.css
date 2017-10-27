@@ -2713,10 +2713,15 @@ input[type="button"].btn-block {
   #home section {
     margin-top: 4em;
     margin-bottom: 4em; }
+  #home .colorized {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.5); }
+    #home .colorized .container {
+      padding-top: 4em;
+      padding-bottom: 4em; }
   #home .image.metadata img {
     max-width: 300px; }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 700px) {
   #home {
     padding-bottom: 3em; }
     #home .masthead {

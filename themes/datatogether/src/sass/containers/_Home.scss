@@ -33,6 +33,15 @@
     margin-bottom: 4em;
   }
 
+
+  .colorized  {
+    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+    .container {
+      padding-top: 4em;
+      padding-bottom: 4em;
+    }
+  }
+
   .image.metadata {
     img {
       max-width: 300px;
@@ -40,7 +49,7 @@
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 700px) {
   #home {
     padding-bottom: 3em;
     
