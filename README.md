@@ -18,9 +18,6 @@ We would love involvement from more people! If you notice any errors or would li
 
 We use GitHub issues for [tracking bugs and feature requests](https://github.com/datatogether/website/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/website/pulls).
 
-## Usage
-
-
 ## Development
 
 1. Clone this repo
@@ -52,6 +49,6 @@ We use GitHub issues for [tracking bugs and feature requests](https://github.com
 
 - [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
 
-### Deployment
+## Deployment
 
 [datatogether.org](https://datatogether.org/) is manually deployed over IPFS ([the InterPlanetary File System](https://ipfs.io/)) using IPNS (the Inter-Planetary Naming System), you can also view the site via an IPFS gateway at [ipfs.io/ipns/datatogether.org](https://ipfs.io/ipns/datatogether.org/).
