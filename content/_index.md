@@ -5,33 +5,29 @@ date: 2017-09-10T18:00:00-04:00
 draft: false
 ---
 
-<div class="signup container">
+<section class="signup container">
   <div class="row">
     <div class="text col-md-6 col-sm-12 col-xs-12">
       <p class="sub-emphasis">Data Together is a new model for distributed, community-driven stewardship of data. This model shows how groups of people, companies, institutions, NGOs, and governments can use decentralized and peer-to-peer web infrastructure to access, discover, verify, and preserve data they care about. We hope to build a future in which networks of collaborators make their data accessible to their peers, immediately discoverable, easily verifiable, and robustly preserved.</p>
       <!-- <a class="btn btn-large bg-red white" href="/primers">Get Started</a> -->
     </div>
-    <div class="image col-md-4 offset-md-2"><img src="https://s3.us-east-2.amazonaws.com/static.archivers.space/add-metadata.png"></div>
+    <div class="image metadata col-md-4 offset-md-2"><img src="https://s3.us-east-2.amazonaws.com/static.archivers.space/add-metadata.png"></div>
   </div>
-</div>
-<div class="left" style="height: 200px; width: 20%; max-width: 200px; margin-right: 25px; margin-top: 100px;">
-  <img class="left-lines" src="https://s3.amazonaws.com/datatogether/svg/lines_left.svg">
-</div>
-<div class="signup dweb-view container">
-  <div class="row">
-    <div class="image col-md-4"></div>
-    <div class="text col-md-6 col-sm-12 col-xs-12">
-      <p class="emphasis">
-        This site is not a centralized data hosting service. It’s a view onto the decentralized network of individuals, organizations, projects and communities who are using the Data Together model.
-      </p>
+</section>
+
+<section class="dweb-view colorized bg-red">
+  <div class="container">
+    <div class="row">
+      <div class="text col-md-6 col-sm-12 col-xs-12">
+        <p class="emphasis">
+          This site is not a centralized data hosting service. It’s a view onto the decentralized network of individuals, organizations, projects and communities who are using the Data Together model.
+        </p>
+      </div>
     </div>
   </div>
-</div>
+</section>
 
-<div class="right" style="height: 200px; width: 20%; max-width: 300px; margin-left: 25px; margin-top: 100px;">
-  <img class="right-lines" src="https://s3.amazonaws.com/datatogether/svg/lines_right.svg">
-</div>
-<div class="signup community container">
+<section class="signup community container">
   <div class="row">
     <div class="text col-md-6 col-sm-12 col-xs-12 sub-emphasis">
       <p>
@@ -48,10 +44,14 @@ draft: false
     </div>
     <div class="image col-md-4 offset-md-2"></div>
   </div>
+</section>
 
+<section>
   <div class="container">
     <div class="row">
+      <hr class="red" />
       <h2 class="tagline">Publications and Talks</h2>
+      <br />
       <div class="text col-md-4">
         <p><a href="http://2017.code4lib.org/">Code4Lib 2017</a></p>
         <iframe max-height="315" width="100%" src="https://www.youtube.com/embed/xRuPShYelm4" frameborder="0" allowfullscreen></iframe>
@@ -72,4 +72,4 @@ draft: false
       </div>
     </div>
   </div>
-</div>
+</section>
