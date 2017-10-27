@@ -4,7 +4,8 @@
   box-shadow: -1 0 8px rgba(0,0,0,0.45);
   position: fixed;
   transition: right 0.15s;
-  top: 50px;
+  top: 0;
+  padding-top: 50px;
   right: -100%;
   height: 100%;
   z-index: 2;
