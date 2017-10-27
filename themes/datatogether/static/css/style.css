@@ -2690,22 +2690,31 @@ input[type="button"].btn-block {
   margin: 2em 0 0 0;
   padding-bottom: 0; }
   #home .masthead {
-    background: top center url("/png/clouds_background.png") repeat-x white;
-    padding-top: 50px;
+    background-image: url("/png/clouds_background.png");
+    background-color: white;
+    background-position-x: center;
+    background-position-y: -8em, top;
+    background-repeat: repeat-x;
+    padding-top: 100px;
     min-height: 650px;
     position: relative; }
     #home .masthead .tagline {
       text-align: center;
-      color: #EE4360;
-      margin: 5em auto 0 auto;
+      color: #eb1594;
+      margin: 2em auto 0 auto;
       max-width: 60%;
       font-size: 3em;
       line-height: 1.45em; }
     #home .masthead img {
       width: 100%;
       max-width: 1200px;
-      margin: 0 0 0 auto;
+      margin: 6em 0 0 auto;
       display: block; }
+  #home section {
+    margin-top: 4em;
+    margin-bottom: 4em; }
+  #home .image.metadata img {
+    max-width: 300px; }
 
 @media screen and (max-width: 480px) {
   #home {
@@ -2715,12 +2724,7 @@ input[type="button"].btn-block {
       min-height: 100%; }
       #home .masthead .tagline {
         margin: 2em auto 2em auto;
-        max-width: 100%; }
-    #home .image {
-      width: 80%;
-      margin: 0 auto; }
-      #home .image img {
-        width: 100%; } }
+        max-width: 100%; } }
 
 #user .profile_photo {
   max-width: 170px;

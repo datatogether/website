@@ -4,15 +4,18 @@
 
   .masthead {
     // background: top center url("https://s3.us-east-2.amazonaws.com/static.archivers.space/clouds.png") repeat-x;
-    background: top center url("/png/clouds_background.png") repeat-x white;
-    // background: top center url("https://s3.amazonaws.com/datatogether/svg/lines_bg.svg") repeat-x;
-    padding-top: 50px;
+    background-image: url("/png/clouds_background.png");
+    background-color: white;
+    background-position-x: center;
+    background-position-y: -8em, top;
+    background-repeat: repeat-x;
+    padding-top: 100px;
     min-height: 650px;
     position: relative;
     .tagline {
       text-align: center;
-      color: $red;
-      margin: 5em auto 0 auto;
+      color: $magenta;
+      margin: 2em auto 0 auto;
       max-width: 60%;
       font-size: 3em;
       line-height: 1.45em;
@@ -20,8 +23,19 @@
     img {
       width: 100%;
       max-width: 1200px;
-      margin: 0 0 0 auto;
+      margin: 6em 0 0 auto;
       display: block;
+    }
+  }
+
+  section {
+    margin-top: 4em;
+    margin-bottom: 4em;
+  }
+
+  .image.metadata {
+    img {
+      max-width: 300px;
     }
   }
 }
@@ -39,12 +53,12 @@
         max-width: 100%;
       }
     }
-    .image {
-      width: 80%;
-      margin: 0 auto;
-      img {
-        width: 100%;
-      }
-    }
+    // .image {
+    //   width: 80%;
+    //   margin: 0 auto;
+    //   img {
+    //     width: 100%;
+    //   }
+    // }
   }
 }
