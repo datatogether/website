@@ -2691,7 +2691,7 @@ input[type="button"].btn-block {
   margin: 2em 0 0 0;
   padding-bottom: 0; }
   #home .masthead {
-    background-image: url("/png/clouds_background.png");
+    background-image: url("../png/clouds_background.png");
     background-color: white;
     background-position-x: center;
     background-position-y: -8em, top;
