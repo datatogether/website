@@ -1,35 +1,22 @@
-baseURL = "http://datatogether.org"
-relativeURLs = true
-languageCode = "en-us"
+baseURL = "https://datatogether.org"
 title = "Data Together"
 theme = "datatogether"
 
-# [permalinks]
-# blog = ":slug/"
-
-# [params]
-# Author = "Data Together"
-# Description = "Community-Based Data"
-# Email = "info@qri.io"
-# FaviconFile = "img/leaf.ico"
-# GATracker = "XYZ"
-# SegmentTracker= "b4iAxJT8ISitRFQ6qZGS9w7RTnaOpvju"
-# GitHub = "//github.com/qri-io"
-# HighlightJS = true
-# Initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
-# Lang = "en"
-# LinkedIn = "//linkedin.com/in/you"
-# Twitter = "//twitter.com/qri_io"
-# ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
+metaDataFormat = "toml"
+relativeURLs = true
+languageCode = "en-us"
+defaultContentLanguage = "en"
 
 [params]
+  # ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
   domain = "datatogether.org"
-  name = "Data Together"
-  title = "Data Together"
-  description = "Communities stewarding data together."
   author = "Data Together"
-  github = "https://github.com/datatogether"
+  title = "Data Together"
+  description = "Communities stewarding data together"
+  github = "datatogether"
+  twitter = "data_together"
+  email = ""
+  favicon = ""
   cacheBuster = true
   dateForm = "Jan 2, 2006"
   dateFormFull = "Mon Jan 2 2006 15:04:05 MST"
-  social = [ ]
