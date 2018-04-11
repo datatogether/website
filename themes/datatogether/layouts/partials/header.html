@@ -19,11 +19,15 @@
       </div>
     </div>
     <div id="main_menu" class="hide">
-      <a class="blue" href="/">Home</a>
-      <a class="blue" href="/public-record">Public Record</a>
-      <a class="red section-title" href="/activities">Activities</a>
-      <a class="red sub" href="/activities/harvesting">Harvesting</a>
-      <a class="red sub" href="/activities/monitoring">Monitoring</a>
-      <a class="red sub" href="/activities/storing">Storing</a>
-      <a class="red sub" href="/activities/rescuing">Rescuing</a>
+      <ul>
+        {{ $currentNode := . }}
+        {{with .Site.Menus.main}}
+        {{ range sort . "Weight" "desc"}}
+            {{.Pre}}
+            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
+              <a href="{{.URL}}" class="blue">{{.Name}}</a>
+            </li>
+        {{end}}
+        {{end}}
+      </ul>
     </div>

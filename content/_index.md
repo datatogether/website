@@ -3,6 +3,7 @@ title: "Data Together"
 tagline: "Communities Stewarding Data Together"
 date: 2017-09-10T18:00:00-04:00
 draft: false
+menu: "main"
 ---
 
 <section class="signup container">
