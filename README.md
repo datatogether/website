@@ -4,6 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/project-Data_Together-487b57.svg?style=flat-square)](http://github.com/datatogether)
 [![Slack](https://img.shields.io/badge/slack-Archivers-b44e88.svg?style=flat-square)](https://archivers-slack.herokuapp.com/)
+[![Jenkins](https://ci.ipfs.team/buildStatus/icon?job=datatogether/website/master)](https://ci.ipfs.team/job/datatogether/job/website/job/master)
 
 A static-generated website to introduce the Data Together project, built with [Hugo](https://gohugo.io/). The website describes our collective commitment to support the development of a decentralized web that aggregates and preserves the public record, with attention to provenance and trustworthiness of our data.
 
