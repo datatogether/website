@@ -5,29 +5,29 @@
 
 <body lang="{{ .Site.Params.Lang }}">
   <div id="root">
-  <div class="app">
-    <div id="navbar" style="position: absolute; width: 100%; height: 50px; left: 0px; top: 0px;">
-      <div class="container">
-        <div class="row">
+    <div class="app">
+      <div id="navbar" style="position: absolute; width: 100%; height: 50px; left: 0px; top: 0px;">
+        <div class="container">
+          <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-6">
               <a id="logotype" href="/">[ data, together ]</a>
             </div>
             <div class="menu col-md-4 offset-md-2 col-sm-6">
-              <a class="green toggle-menu">Menu</a>
+              <a class="green toggle-menu">Blog</a>
             </div>
+          </div>
         </div>
       </div>
-    </div>
-    <div id="main_menu" class="hide">
-      <ul>
-        {{ $currentNode := . }}
-        {{with .Site.Menus.main}}
-        {{ range sort . "Weight" "desc"}}
-            {{.Pre}}
-            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
-              <a href="{{.URL}}" class="blue">{{.Name}}</a>
-            </li>
-        {{end}}
-        {{end}}
-      </ul>
-    </div>
+      <div id="main_menu" class="hide">
+        <ul>
+          {{ $currentNode := . }}
+          {{with .Site.Menus.main}}
+          {{ range sort . "Weight" "desc"}}
+          {{.Pre}}
+          <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
+            <a href="{{.URL}}" class="blue">{{.Name}}</a>
+          </li>
+          {{end}}
+          {{end}}
+        </ul>
+      </div>
