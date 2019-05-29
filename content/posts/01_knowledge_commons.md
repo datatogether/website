@@ -1,10 +1,10 @@
 ---
 title: "Discussion: the Knowledge Commons (April 2019)"
 tagline: "A Data Together 2019 Reading Group Discussion'"
-date: 2019-04-09T18:00:00-04:00
+date: 2019-05-28T18:00:00-04:00
 draft: false
 menu: main
-authors: ["Kelsey Breseman", "Michelle Hertzfeld", "Kevin Nguyen", "Eric Nost", "Data Together"]
+authors: ["Kelsey Breseman", "Data Together"]
 ---
 
 *Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
@@ -181,6 +181,7 @@ I’m always so grateful and honored to be with this group. And even though we o
 ---
 
 **Readings**
+
 * Ostrom and Hess “A Framework for Analyzing the Knowledge Commons” (Chapter 3, pages 41-81 of Understanding Knowledge as a Commons) (http://www.wtf.tw/ref/hess_ostrom_2007.pdf)
 * Melanie Dulong de Rosnay, Hervé Le Crosnier. [An Introduction to the Digital Commons: From Common-Pool Resources to Community Governance., 2012.](https://halshs.archives-ouvertes.fr/halshs-00736920/document)
 * This twitter thread from mmildenberger: https://twitter.com/mmildenberger/status/1102604887223750657 ([Spooled](https://tinysubversions.com/spooler/?url=https://twitter.com/mmildenberger/status/1102613535224287232))

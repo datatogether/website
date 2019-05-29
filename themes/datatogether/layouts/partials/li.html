@@ -1,4 +1,9 @@
 <li class="post-item">
-    <!-- <span class="meta">{{ .Date.Format .Site.Params.DateForm }}</span> -->
-    <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+  <span class="meta">{{ .Date.Format .Site.Params.DateForm }}</span>
+  <p>
+    {{ if isset .Params "authors" }}
+    {{ delimit .Params.authors ", "}}
+    {{ end }}
+  </p>
+  <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
 </li>

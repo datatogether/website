@@ -8,7 +8,12 @@
           <hr class="">
           <!-- <label class="label">activity</label> -->
           <h1 class="title">{{ .Title }}</h1>
-          <hr>
+          <span class="meta">{{ .Date.Format .Site.Params.DateForm}}</span>
+          <p>
+            {{ if isset .Params "authors" }}
+            {{ delimit .Params.authors ", "}}
+            {{ end }}
+          </p>
         </div>
       </div>
     </div>
