@@ -116,7 +116,7 @@ Will we get to a point where everyone can contribute?
 
 Knowledge deficit is not the same as a skills deficit. Can we teach the minimum skills?
 
-**LIZ**: "Expert" cultures tend to self-select, self-promote, and stay homogeneous. This is something I'd like to explore more. I was recently reading about how programming languages are generated from certain cultures, genders, neurotypes– and it doesn't have to be that way.
+**LIZ**: "Expert" cultures tend to self-select, self-promote, and stay homogeneous. This is something I'd like to explore more. I was reading about how programming languages are generated from certain cultures, genders, neurotypes– and it doesn't have to be that way.
 
 **MATT**: The trouble with "doesn't have to be that way" is that the world is big, and it's hard to keep it from organizing in on itself. I would like us to shape provisional signposts on how to organize ourselves. From these readings, it seems like you can engineer the success of a commons, to some extent.
 
@@ -147,7 +147,7 @@ Our group includes people interested in commons principles and people interested
 
 **ROB**: This connects to the Dulong de Rosnay piece: a counterpoint to anonymity in online spaces is reputation. It means you can't have throwaway accounts; you need a durable identity. You can't be a bad actor under a different name. 
 
-**LIZ**: I have experimented with sidestepping reputation as a prime value in a commons context. Reputation can have some of the same undesirable impacts (incumbencies, authority, over-representation). Often, we're moving at the speed of "did you test it for yourself, and did it work?" It can get a little crazy, but in a knowledge commons, understanding "pre-authenticated knowledge" from another system is just moving it into a new context.
+**LIZ**: I have experimented with sidestepping reputation as a prime value in a commons context. Reputation can have some of the same undesirable impacts (incumbencies, authority, over-representation). Often, we're moving at the speed of "did you test it for yourself, and did it work?" Empiricism can be slow, but in a knowledge commons, understanding "pre-authenticated knowledge" from another system is just moving it into a new context.
 
 **ROB**: I agree. We often don't even have that basic level– in code reviews, it's very common for people to approve without actually testing it themselves & finding out: well, does it work?
 
