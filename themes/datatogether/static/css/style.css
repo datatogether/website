@@ -348,8 +348,18 @@ textarea {
   touch-action: manipulation; }
 
 table {
+  border: .02rem solid;
+  margin-bottom:1rem;
   border-collapse: collapse;
   background-color: transparent; }
+
+th {
+  border: .02rem solid;
+  padding: 0 .5rem 0 .5rem;}  
+
+td {
+  border: .02rem solid;
+  padding: 0 .5rem 0 .5rem;} 
 
 caption {
   padding-top: 0.75rem;
