@@ -147,7 +147,7 @@ I think we sometimes look for metrics that may not measure our success very well
 
 ## Defining a civic body
 
-**LIZ**: The reading caught me by surprise, because I'm not used to thinking in moral terms. I'm not sure I'd dump a moral framing out of my mental model, but **I really value self-discipline, and I value the dreams we hold together.**
+**LIZ**: The reading caught me by surprise, because I'm not used to thinking in moral terms. I'm not sure I'd derive a moral framing out of my mental model, but **I really value self-discipline, and I value the dreams we hold together.**
 
 **Can we dream together, and then can we (virtuously?) coordinate our work together to build a future we want to exist in?** That's my limited personal philosophy. I came up short when challenged with these questions of virtue, or what a responsibility is to a collective. I was shocked to realize **I feel very little responsibility to a collective other than the collective I'm dreaming with.**
 
