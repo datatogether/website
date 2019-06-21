@@ -71,6 +71,16 @@ menu: "main"
         <p>Swadeshi (starts at 1:10)</p>
         <p>Slides: <a href="/presentations/Data%20Together%20-%20NDSR%20-%20swadeshi.pdf">PDF</a>, <a href="/presentations/Data%20Together%20-%20NDSR%20-%20swadeshi.key">Keynote</a> </p>
       </div>
+      <div class="text col-md-4">
+        <p><a href="https://youtu.be/83Gws-dPL8A">The Future of the Web – CascadiaJS 2018</a></p>
+        <iframe src="https://www.youtube.com/embed/83Gws-dPL8A" max-height="315" width="100%" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </p>
+      </div>
+      <div class="text col-md-4">
+        <p><a href="https://youtu.be/GcPU1Os2-Q8">Where is the data bazaar?</a></p>
+        <iframe src="https://www.youtube.com/embed/GcPU1Os2-Q8" max-height="315" width="100%" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+        </p>
+      </div>
     </div>
   </div>
 </section>
