@@ -10,7 +10,7 @@ publishDir = "docs"
 
 [params]
   # ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
-  domain = "datatogether.org"
+  domain = "datatogether.github.io"
   author = "Data Together"
   title = "Data Together"
   description = "Communities stewarding data together"
