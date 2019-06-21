@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Together</title>
+    <link>https://datatogether.github.io/website/</link>
+    <description>Recent content on Data Together</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2017 18:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://datatogether.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Public Record</title>
+      <link>https://datatogether.github.io/website/public-record/</link>
+      <pubDate>Mon, 24 Jul 2017 23:00:29 -0400</pubDate>
+      
+      <guid>https://datatogether.github.io/website/public-record/</guid>
+      <description>Embracing a decentralized web naturally highlights the need for a Public Record &amp;ndash; a shared record of the information that has been published by the plethora of entities on the web. A key aspect of the public record is to provide a basis for knowing who produced certain information and when they produced it. Ideally this aggregate dataset, the public record, should be stored and updated in a decentralized fashion.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = "https://datatogether.org"
+baseURL = "https://datatogether.github.io/website/"
 title = "Data Together"
 theme = "datatogether"
 
@@ -6,6 +6,7 @@ metaDataFormat = "toml"
 relativeURLs = true
 languageCode = "en-us"
 defaultContentLanguage = "en"
+publishDir = "docs"
 
 [params]
   # ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
