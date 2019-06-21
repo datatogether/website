@@ -55,4 +55,6 @@ We use GitHub issues for [tracking bugs and feature requests](https://github.com
 
 ## Deployment
 
-[datatogether.org](https://datatogether.org/) is manually deployed over IPFS ([the InterPlanetary File System](https://ipfs.io/)) using IPNS (the Inter-Planetary Naming System), you can also view the site via an IPFS gateway at [ipfs.io/ipns/datatogether.org](https://ipfs.io/ipns/datatogether.org/).
+Data Together is currently hosted on Github Pages, and automatically deploys from the `docs` folder when changes are merged into the `master` branch.
+
+Once you have made local changes, make sure to run `hugo` to build the site and commit all of the changes in the `docs` folder.
