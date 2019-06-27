@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Data Together</title>
+    <link>https://datatogether.github.io/posts/</link>
+    <description>Recent content in Posts on Data Together</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 18:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://datatogether.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discussion: the Knowledge Commons (April 2019)</title>
+      <link>https://datatogether.github.io/posts/01_knowledge_commons/</link>
+      <pubDate>Tue, 28 May 2019 18:00:00 -0400</pubDate>
+      
+      <guid>https://datatogether.github.io/posts/01_knowledge_commons/</guid>
+      <description>Data Together is a community of people building a better future for data. We engage in a monthly Reading Group on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.
+This reading group is something your own collective can do too!</description>
+    </item>
+    
+  </channel>
+</rss>
