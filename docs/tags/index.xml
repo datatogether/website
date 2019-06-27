@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Data Together</title>
-    <link>https://datatogether.github.io/website/tags/</link>
+    <link>https://datatogether.github.io/tags/</link>
     <description>Recent content in Tags on Data Together</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://datatogether.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datatogether.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

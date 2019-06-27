@@ -1,4 +1,4 @@
-baseURL = "https://datatogether.github.io/website/"
+baseURL = "https://datatogether.github.io/"
 title = "Data Together"
 theme = "datatogether"
 
