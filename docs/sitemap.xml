@@ -3,22 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://datatogether.github.io/website/</loc>
+    <loc>https://datatogether.github.io/posts/01_knowledge_commons/</loc>
+    <lastmod>2019-05-28T18:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://datatogether.github.io/</loc>
     <lastmod>2017-09-10T18:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://datatogether.github.io/website/public-record/</loc>
-    <lastmod>2017-07-24T23:00:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://datatogether.github.io/website/categories/</loc>
+    <loc>https://datatogether.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datatogether.github.io/website/tags/</loc>
+    <loc>https://datatogether.github.io/posts/</loc>
+    <lastmod>2019-05-28T18:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datatogether.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
