@@ -447,7 +447,7 @@ There were a lot of books mentioned in this discussion *outside* of the reading 
 #### Nonfiction
 
 * "[Who Owns the Future?](https://www.goodreads.com/book/show/15802693-who-owns-the-future)" by Jaron Lanier
-"[Raising the Floor](https://www.goodreads.com/book/show/25898100-raising-the-floor)" by Andy Stern
+* "[Raising the Floor](https://www.goodreads.com/book/show/25898100-raising-the-floor)" by Andy Stern
 * "[Take Back the Economy](https://www.goodreads.com/book/show/16128880-take-back-the-economy)" by JK Gibson-Graham
 * "[The Real World of Technology](https://www.cbc.ca/radio/ideas/the-1989-cbc-massey-lectures-the-real-world-of-technology-1.2946845)" by Ursula Franklin
 * "[The Economization of Life](https://www.dukeupress.edu/the-economization-of-life)" by Michelle Murphy
