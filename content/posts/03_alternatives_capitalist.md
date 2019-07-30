@@ -118,7 +118,7 @@ Recently, I was trying to explain my excitement for the Green New Deal in a livi
 
 But **I wouldn't be excited about it if it was anything less than everything**. Is it going to solve everything? Is it going to do justice to the ideals? Probably not, but at least it changes *everything*.
 
-**DAWN**: That reminds me of The (International) Noise Conspiracy, which has a song called "[It's a Small Demand](https://www.youtube.com/watch?v=IHSBazgo9I0)". The chorus is:
+**DAWN**: That reminds me of The (International) Noise Conspiracy, which has a song called "[It's a Small Demand](https://www.youtube.com/watch?v=Fubngpn1rfg)". The chorus is:
 
 > All we ever wanted was just everything
 > All we ever needed was just everyone
