@@ -31,7 +31,7 @@ In this session, we range from Kathi Weeks' "The Problem with Work" and an inter
 
 **KELSEY**: I spent a lot of today turning our last Data Together discussion, on Civics, into a [blog post](https://datatogether.github.io/website/posts/02_civics/), and so that framing has been on my mind.
 
-It feels like **one of the reasons people don't participate or engage more as citizens**, as people who define or question systems, or otherwise participate, is that, especially in the United States, **the way to be a good citizen is to *do work***, to drive the GDP. It's an all-consuming drive that appears to be individualistic, that drives powers that we don't understand.
+It feels like **one of the reasons people don't participate or engage more as citizens**, as people who define or question systems, or otherwise participate, is that, especially in the United States, **the way to be a good citizen is to do work**, to drive the GDP. It's an all-consuming drive that appears to be individualistic, that drives powers that we don't understand.
 
 *Weeks, 8:*
 
@@ -62,7 +62,7 @@ I saw Frase's "Four Futures" as a walk of plausibility. If we don't figure out e
 | **Abundance** | Communism | Rentism |
 | **Scarcity** | Socialism | Exterminism |
 
-*Egalitarianism and abundance would be **communism**; hierarchy and abundance is **rentism**; egalitarianism and scarcity would be **socialism**; and hierarchy and scarcity is **exterminism**, an intentional 1%/99%-type divide.*
+*Egalitarianism and abundance would be* **communism**; *hierarchy and abundance is* **rentism**; *egalitarianism and scarcity would be* **socialism**; *and hierarchy and scarcity is* **exterminism**, *an intentional 1%/99%-type divide.*
 
 From exterminism, either of socialism and rentism is an attenuation down one axis or the other: toward egalitarianism, or toward abundance, respectively. Can we address inequality enough to get to socialism?
 
@@ -325,7 +325,7 @@ Weber talks about this in the selection that you had from the Weeks book. I don'
 
 **KEVIN**: I would be supportive of it, I just have no idea how it would be implemented.
 
-*Hurr, "Sipping Tea with Silvia Federici":*
+*Hurr,* "*Sipping Tea with Silvia Federici*":
 
 > *Together with Mariarosa Dalla Costa and Selma James, Federici founded the International Feminist Collective, which started the Wages for Housework campaign in 1972. Federici went on to start Wages for Housework groups in Brooklyn and around the US. In 1975, Federici published the texts “[Wages against Housework](https://caringlabor.wordpress.com/2010/09/15/silvia-federici-wages-against-housework/)” and “[Why Sexuality is Work](http://www.commoner.org.uk/wp-content/uploads/2012/02/05-federici.pdf),” which articulated the group’s central ideas: capitalism depends on the unwaged reproductive labor of the housewife – to give birth to new workers, feed and clothe them, and provide emotional support and stability in times of need and crisis. If housewives were to refuse to do this work, capitalism would be on the brink of collapse.*
 
