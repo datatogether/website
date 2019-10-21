@@ -1,7 +1,7 @@
 ---
-title: "Reading Group Semester 1 | Data Together"
+title: "Summer - Fall 2018 Data Together Reading Group"
 tagline: "Communities Stewarding Data Together"
-date: 2018-10-21T18:00:00-04:00
+date: 2018-10-31T18:00:00-04:00
 draft: false
 ---
 
