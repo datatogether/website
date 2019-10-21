@@ -28,3 +28,10 @@ What we ask:
 
 See the Join page for more information!
 
+### Previous semesters
+
+Create your own reading group (or self-study) using our materials! Here are previous semesters' reading selections (and associated notes, video recordings, and blog posts):
+
+* [Summer-Fall 2018]({{< ref "semester_1.md" >}})
+* [Spring-Summer 2019]({{ < ref "semester_2.md" >}}) 
+
