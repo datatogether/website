@@ -70,7 +70,7 @@ This reminded me of what happened [in the wake of Data Rescue](https://rgs-ibg.o
 
 ## Challenges of the knowledge commons: underuse
 
-*While physical commons' challenges center around overuse (clasically, overgrazing, overuse of natural resources, or lack of upkeep in well-used common areas), the more common challenge for digital knowledge commons is underuse. This can come in the form of non-contribution (a digital library with too few resources to be useful) or in the form of non-use (a waste of resources committed to contribution and maintenance).*
+*While physical commons' challenges center around overuse (classically, overgrazing, overuse of natural resources, or lack of upkeep in well-used common areas), the more common challenge for digital knowledge commons is underuse. This can come in the form of non-contribution (a digital library with too few resources to be useful) or in the form of non-use (a waste of resources committed to contribution and maintenance).*
 
 **KEVIN**:  What about the [tragedy of the anticommons](https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons)? With natural resources, the problem is overuse, but the problem with the knowledge commons is that people underuse resources or don't add to them. **What incentives could we propose so they'd join and contribute?**
 
