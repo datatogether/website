@@ -4,28 +4,9 @@ tagline: "Communities Stewarding Data Together"
 date: 2019-10-21T18:00:00-04:00
 draft: false
 ---
-Data. Together. Let's read about it
-====
-
-Data Together's reading group is a set of conversations on themes relevant to information and ethics.
-Curated reading selections are distributed once a month; we meet to discuss on video call.
-
-This year, we are creating **blog posts** of each of the conversations, which you can see at [datatogether.org](//datatogether.org).
-
 # Spring - Summer 2019 Data Together Reading Group
 
-📅 17:30-19:00 ET Tuesdays [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
-🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)  
-▶️ [**Data Together Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
-
-Once a month, we'll host a 1.5 hour discussion of one of our [themes](#themes). Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to [facilitate discussion](#facilitation). [**Join the Google Group**](https://groups.google.com/forum/embed/?place=forum/datatogether/join) to be notified of upcoming meetings and readings.
-
-Our hope is that: first, we learn together!; second, through documenting discussion we can articulate Data Together principles.
-
-- [Themes](#themes)
-- [Sessions](#sessions)
-- [Facilitation](#facilitation)
-- [Potential Readings](#potential-readings)
+This semester's syllabus is a set of conversations on themes relevant to information and ethics.
 
 ## Themes  
 
@@ -36,6 +17,8 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 - [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md) [📜 **Blog Post**](https://datatogether.org/posts/03_alternatives_capitalist/)
 - [Stewardship](#stewardship) (August 6) &nbsp; [🎬 **Recorded Call**](https://youtu.be/fbJUSvO_Xvc) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/4-stewardship-2019-08-06.md)
 - [What is Decentralization?](#what-is-decentralization) (November 12)
+
+*Final sessions' meetings and blog posts are still in process, check back later!*
 
 ## Sessions
 
@@ -197,32 +180,3 @@ True to form, we gathered readings in a decentralized way. Themes that emerged w
     - https://runyourown.social/
 11. Longer talk of Sarah Friend. **Decentralization and its Discontents** 
     - https://youtu.be/Km6EYsBYAlY?t=64
-
-
-## Facilitation
-
-Here are some guidelines about preparation in order to facilitate a session:
-
-- Before the session:
-  - Have read and thought about the texts
-  - Identify and write 2-4 "themes" or questions you are interested in from the readings
-  - We use the same [shared notepad](https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#): https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#, which uses [a template for notes](./notes/template.md)
-- During the session:
-  - Arrive on time (call should auto record as the first person enters)
-  - Ensure the call is recorded (it should auto-record as the first person enters, but always make sure someone presses the record button if not)
-  - Ask for someone to take notes
-  - Keep time and gently wrap us up
-- After the session:
-  - Copy the notes and open a pull request in [this repository](https://github.com/datatogether/reading_datatogether/tree/master/notes)
-
-## Potential Readings
-
-We maintain a shared bibliography in the [`datatogether` Zotero group](https://www.zotero.org/groups/2250068/datatogether), which includes potential readings. 
-
-Anyone can request an invite on a call or by [creating a github issue](https://github.com/datatogether/reading_datatogether/issues/new) in this repository with their Zotero username.
-
-## License
-
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Together Reading Group Materials</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-See the [`LICENSE`](./LICENSE) file for details.
