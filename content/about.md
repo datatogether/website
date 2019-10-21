@@ -15,7 +15,7 @@ Since then Data Together has evolved into new model for distributed, community-d
 
 Data Together is an ongoing, inclusive conversation, an open source community, a collaboration, a model, and a collection of tools, all of which are evolving quickly. We hope to build a future in which networks of collaborators make their data accessible to their peers, immediately discoverable, easily verifiable, and robustly preserved. 
 
-Data Together was founded and is led by three partner organizations listed below, and is comprised of members across the world.
+Data Together was founded and is led by three partner organizations listed below, and comprises members across the world.
 
 <a href="https://envirodatagov.org"><img src="/images/EDGI_Logo.png" width="250" height="250" title="EDGI" alt="edgi"></a>
 
