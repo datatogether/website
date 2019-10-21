@@ -1,7 +1,7 @@
 ---
 title: "Reading Group | Data Together"
 tagline: "Communities Stewarding Data Together"
-date: 2019-10-21T18:00:00-04:00
+date: 2019-10-20T18:00:00-04:00
 draft: false
 ---
 # Spring - Summer 2019 Data Together Reading Group
