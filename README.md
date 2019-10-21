@@ -55,6 +55,4 @@ We use GitHub issues for [tracking bugs and feature requests](https://github.com
 
 ## Deployment
 
-Data Together is currently hosted on Github Pages, and automatically deploys from the `docs` folder when changes are merged into the `master` branch.
-
-Once you have made local changes, make sure to run `hugo` to build the site and commit all of the changes in the `docs` folder.
+Data Together is currently hosted on Github Pages with automatic deployment via Circle CI. Any changes merged into `master` will automatically go live onto the website.
