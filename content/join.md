@@ -1,5 +1,5 @@
 ---
-title: "Join the Data Together Reading Group"
+title: "Join"
 date: 2019-10-20T18:00:00-04:00
 draft: false
 menu: main
