@@ -1,11 +1,9 @@
 ---
-title: "Data. Together. Let's read about it!"
+title: "Join"
 date: 2019-10-20T18:00:00-04:00
 draft: false
 menu: main
 ---
-
-## Join Us 
 
 [**Join the Google Group**](https://groups.google.com/forum/embed/?place=forum/datatogether/join) to be notified of latest Data Together news. Everyone is welcome to join our sessions!
 
