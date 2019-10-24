@@ -1,12 +1,9 @@
 ---
-title: "Reading Group | Data Together"
-tagline: "Communities Stewarding Data Together"
+title: "Readings"
 date: 2019-10-20T18:00:00-04:00
 draft: false
+menu: main
 ---
-
-Data. Together. Let's read about it.
-====
 
 Data Together's reading group is an ongoing conversation on themes relevant to data stewardship.
 
@@ -32,6 +29,4 @@ See the Join page for more information!
 
 Create your own reading group (or self-study) using our materials! Here are previous semesters' reading selections (and associated notes, video recordings, and blog posts):
 
-* [Summer-Fall 2018]({{< ref "semester_1.md" >}})
-* [Spring-Summer 2019]({{ < ref "semester_2.md" >}}) 
 
