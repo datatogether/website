@@ -23,7 +23,7 @@ What we ask:
 * Listen more than you speak. In particular, notice how many people are on the call (n) and try to speak no more than 1/nth of the time.
 * Adhere to our [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md)
 
-See the [Join](../join) page for more information!
+See the [Join]({{< ref join>}}) page for more information!
 
 ### Previous semesters
 
