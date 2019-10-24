@@ -1,12 +1,9 @@
 ---
-title: "Reading Group | Data Together"
-tagline: "Communities Stewarding Data Together"
+title: "Reading Group"
 date: 2019-10-20T18:00:00-04:00
 draft: false
+menu: main
 ---
-
-Data. Together. Let's read about it.
-====
 
 Data Together's reading group is an ongoing conversation on themes relevant to data stewardship.
 
@@ -24,14 +21,13 @@ What we ask:
 
 * Do the readings
 * Listen more than you speak. In particular, notice how many people are on the call (n) and try to speak no more than 1/nth of the time.
-* Adhere to our Code of Conduct
+* Adhere to our [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md)
 
-See the Join page for more information!
+See the [Join]({{< ref join>}}) page for more information!
 
 ### Previous semesters
 
 Create your own reading group (or self-study) using our materials! Here are previous semesters' reading selections (and associated notes, video recordings, and blog posts):
 
-* [Summer-Fall 2018]({{< ref "semester_1.md" >}})
-* [Spring-Summer 2019]({{ < ref "semester_2.md" >}}) 
-
+* [Summer - Fall 2018 Data Together Reading Group]({{< ref "semester_1" >}})
+* [Spring - Summer 2019 Data Together Reading Group]({{< ref "semester_2" >}})
