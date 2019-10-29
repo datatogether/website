@@ -26,7 +26,7 @@ Data Together was founded and is led by three partner organizations listed below
 </div>
 
 <div class="col-md-4 col-sm-12 col-xs-12">
-<a href="https://protocol.ai/"><img src="/images/PL_Logo.png" width="100%" title="EDGI" alt="edgi"></a>
+<a href="https://protocol.ai/"><img src="/images/PL_Logo.png" width="100%" title="Protocol Labs" alt="Protocol Labs"></a>
 </div>
 
 <a href="/join"> <button type="button">Get involved</button> </a>
