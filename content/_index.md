@@ -1,15 +1,15 @@
 ---
 title: "Data Together"
-tagline: "Communities Stewarding Data Together"
-date: 2017-09-10T18:00:00-04:00
+tagline: "Exploring Community-Driven Data Stewardship"
+date: 2019-10-20T18:00:00-04:00
 draft: false
 ---
 
 <section class="signup container">
   <div class="row">
     <div class="text col-md-6 col-sm-12 col-xs-12">
-      <p class="sub-emphasis">Data Together is a new model for distributed, community-driven stewardship of data. This model shows how groups of people, companies, institutions, NGOs, and governments can use decentralized and peer-to-peer web infrastructure to access, discover, verify, and preserve data they care about. We hope to build a future in which networks of collaborators make their data accessible to their peers, immediately discoverable, easily verifiable, and robustly preserved.</p>
-      <!-- <a class="btn btn-large bg-red white" href="/primers">Get Started</a> -->
+      <p class="sub-emphasis">We examine models for distributed stewardship of data through community-led reading and discussion groups.</p>
+      <p class="sub-emphasis">Our conversations aim to decompose how decentralized and peer-to-peer web infrastructure can enable communities to access, discover, verify, and preserve data they care about.</p>
     </div>
     <div class="image metadata col-md-4 offset-md-2"><img src="https://s3.us-east-2.amazonaws.com/static.archivers.space/add-metadata.png"></div>
   </div>
@@ -19,9 +19,7 @@ draft: false
   <div class="container">
     <div class="row">
       <div class="text col-md-6 col-sm-12 col-xs-12">
-        <p class="emphasis">
-          This site is not a centralized data hosting service. It’s a view onto the decentralized network of individuals, organizations, projects and communities who are using the Data Together model.
-        </p>
+        <p class="emphasis">Data Together is an ongoing and inclusive conversation, an open source community, and a collaboration. Our monthly reading group focuses on the intersection of information and ethics.</p>
       </div>
     </div>
   </div>
@@ -29,17 +27,15 @@ draft: false
 
 <section class="signup community container">
   <div class="row">
+    <h2 class="tagline">Reading</h2>
     <div class="text col-md-6 col-sm-12 col-xs-12 sub-emphasis">
       <p>
-        Data Together is an ongoing, inclusive conversation, an open source community, a collaboration, a model, and a collection of tools, all of which are evolving quickly. To achieve our aims, we are
-        <ul>
-          <li>Developing conceptual and technical models for communities, using decentralized and peer-to-peer infrastructure</li>
-          <li>Articulating the patterns of actors and technologies involved, and value propositions for those actors</li>
-          <li>Creating proof-of-concept tools that communities can use to collectively steward data</li>
-        </ul>
+        We discuss conceptual frameworks for information networks through the lens of decentralized and peer-to-peer systems infrastructure.
       </p>
+    </div>
+    <div class="text col-md-6 col-sm-12 col-xs-12 sub-emphasis">
       <p>
-        There are many ways to get involved and to contribute, the most important of which  is to test the Data Together model with your community and then share back where things work, where the approach opens new possibilities, and where there’s room for improvement.
+        We study patterns in technology, society, and ethics and their impact on the actors they involve.
       </p>
     </div>
     <div class="image col-md-4 offset-md-2"></div>
@@ -50,7 +46,7 @@ draft: false
   <div class="container">
     <div class="row">
       <hr class="red" />
-      <h2 class="tagline">Publications and Talks</h2>
+      <h2 class="tagline">Media</h2>
       <br />
       <div class="text col-md-4">
         <p><a href="http://2017.code4lib.org/">Code4Lib 2017</a></p>
@@ -71,5 +67,19 @@ draft: false
         <p>Slides: <a href="/presentations/Data%20Together%20-%20NDSR%20-%20swadeshi.pdf">PDF</a>, <a href="/presentations/Data%20Together%20-%20NDSR%20-%20swadeshi.key">Keynote</a> </p>
       </div>
     </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <hr class="red" />
+      <h2 class="tagline">Join Us</h2>
+      <br />
+      <div class="text col-md-6 col-sm-12 col-xs-12 sub-emphasis">
+        <p>
+        Get involved or contribute by reading our previous blog posts and discussions or joining our future reading group discussions that interest you!
+        </p>
+      </div>
   </div>
 </section>
