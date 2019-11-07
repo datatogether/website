@@ -258,7 +258,7 @@ This is from "[The Witness](https://thefloatinglibrary.com/2008/09/14/the-witnes
 > But something, or an infinite number of things, dies in every death, unless the universe is possessed of a memory, as the theosophists have supposed.
 > In the course of time, there was a day that closed the last eyes to see Christ. The bottle of Junin, and the love of Helen each died with the death of some one man. What will die with me when I die, what pitiful or perishable form will the world lose? The voice of Macedonio Fernandez? The image of a roan horse on the vacant lot at Serrano and Charcas? A bar of sulfur in the drawer of a mahogany desk?
 
-**KEVIN**: That's a great way to leave us thinking. I hope people think about how to continue this conversation: defining how to be good stewards, and deciding what should be preserved, what we want to preserve, or letting people choose. Thanks for an awesome conversation.
+**KEVIN**: That's a great way to not end the conversation, but leave us thinking. I hope people think about how to continue this conversation: defining how to be good stewards, and deciding what should be preserved, what we want to preserve, or letting people choose. Thanks for an awesome conversation.
 
 ---
 
