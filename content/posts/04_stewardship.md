@@ -59,7 +59,7 @@ The pastor's comments define **different dimensions of stewardship: ownership, a
 
 ## Motives for stewardship
 
-**KEVIN**: I liked that people touched on ownership. I was chatting with my neighbor, who is an Episcopelian pastor. They had a great term, that it's the "antidote to dominion". **Instead of lording over or controlling things, a steward is involved with the proper care and *use* of things.**
+**KEVIN**: I liked that people touched on ownership. I was chatting with my neighbor, who is an Episcopalian pastor. They had a great term, that it's the "antidote to dominion". **Instead of lording over or controlling things, a steward is involved with the proper care and *use* of things.**
 
 In the Tending the Wild reading, Anderson writes,
 
