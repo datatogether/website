@@ -35,7 +35,7 @@ Please see the bottom of the post for a full list of reading selections.
 
 For example, my religious background was my first exposure to the idea of stewardship.
 
-*From the [Wright sermon](https://youtu.be/RWCbK8qRkuo?t=170):*
+*From the [Wright sermon](https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit):*
 
 > Stewardship is the management of various assets that don't belong to you ... authority, responsibility, accountability ... faithfulness is the minimum requirement for the steward.
 
