@@ -4,7 +4,7 @@ tagline: "A Data Together 2019 Reading Group Discussion'"
 date: 2019-10-14T18:00:00-04:00
 draft: false
 menu: main
-authors: ["Kelsey Breseman", "Data Together"]
+authors: ["Kelsey Breseman", "Kevin Nguyen", "Data Together"]
 ---
 
 *Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
