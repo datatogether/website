@@ -265,7 +265,7 @@ This is from "[The Witness](https://thefloatinglibrary.com/2008/09/14/the-witnes
 
 **Readings**
 
-1. Pastor Henry Wright, [The Stewardship of Time](https://youtu.be/RWCbK8qRkuo?t=170), 2019: 2:50-6:17. [Transcript](https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit)
+1. Pastor Henry Wright, The Stewardship of Time, 2019: 2:50-6:17. [Transcript](https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit)
 2. Nora Marks Dauenhauer, [Haa Tuwunáagu Yís](https://www.goodreads.com/book/show/2146282.Haa_Tuwun_agu_Y_s_for_Healing_Our_Spirit), 1990: Elders Speak to the Future:
     * 263-267
     * 277-281 
