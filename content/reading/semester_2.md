@@ -4,8 +4,6 @@ tagline: "Communities Stewarding Data Together"
 date: 2019-10-20T18:00:00-04:00
 draft: false
 ---
-# Spring - Summer 2019 Data Together Reading Group
-
 This semester's syllabus is a set of conversations on themes relevant to information and ethics.
 
 ## Themes  

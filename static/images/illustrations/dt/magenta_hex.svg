@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="46" height="53.9" style="enable-background:new 0 0 46 53.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#211E1F;}
+	.st2{fill:#717272;}
+	.st3{fill:#E4E4E3;}
+	.st4{fill:#FCFDFF;}
+	.st5{fill:#929191;}
+	.st6{fill:none;stroke:#211E1F;stroke-width:0.3067;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{opacity:0.2;fill:#211E1F;}
+	.st8{fill:#183151;}
+	.st9{clip-path:url(#SVGID_2_);}
+	.st10{fill:#342563;}
+	.st11{fill:#60C7D9;}
+	.st12{fill:#F2EA3F;}
+	.st13{fill:#4181C3;}
+	.st14{fill:#EB008B;}
+	.st15{opacity:0.15;fill:#231F20;}
+	.st16{fill:none;stroke:#BF007B;stroke-width:1.6361;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#BF007B;stroke-width:0.4674;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st18{opacity:0.1;fill:#231F20;}
+	.st19{fill:#FFFFFF;stroke:#EE4360;stroke-width:1.4023;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st20{opacity:0.15;}
+</style>
+<g>
+	<path class="st15" d="M20.2,4.6l-15.7,9c-1.4,0.8-2.3,2.3-2.3,3.9v16.6c0,1.6,0.9,3.1,2.2,3.9l16.1,9.3c1.4,0.8,3.1,0.8,4.5,0
+		l15.7-9c1.4-0.8,2.3-2.3,2.3-3.9V17.8c0-1.6-0.9-3.1-2.2-3.9L24.7,4.6C23.3,3.8,21.6,3.8,20.2,4.6z"/>
+	<polygon class="st14" points="20.9,0.8 0.8,12.3 0.8,34 21.2,45.8 41.3,34.3 41.3,12.6 	"/>
+	<path class="st18" d="M21.2,45.8l20.1-11.5V12.6L21.8,23.8c-0.3,0.2-0.6,0.6-0.6,1V45.8z"/>
+	<polygon class="st16" points="20.9,0.8 41.3,12.6 41.3,34.3 21.2,45.8 0.8,34 0.8,12.3 	"/>
+	<path class="st17" d="M41.3,12.6L21.9,23.7c-0.4,0.2-0.7,0.7-0.7,1.2v20.9"/>
+	<line class="st17" x1="20.1" y1="23.4" x2="2.4" y2="13.3"/>
+	<path class="st18" d="M20,35l0,7.3c0,0.1-0.1,0.2-0.2,0.1l-3.9-2.1c-0.1-0.1-0.1-0.2,0-0.3c0.8-0.3,2.7-1.6,3.8-5.2
+		C19.7,34.8,20,34.9,20,35z"/>
+</g>
+</svg>

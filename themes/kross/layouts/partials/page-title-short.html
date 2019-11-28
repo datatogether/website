@@ -1,0 +1,28 @@
+<!-- page title -->
+<section class="page-title-short bg-primary position-relative overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-8">
+        <h3 class="text-white font-tertiary">{{.Title}}</h3>
+          <h4 class="font-secondary text-white">{{ .PublishDate.Format "Jan 02, 2006" }}
+          </h4>
+          {{ if .Params.authors }}
+            <h4 class="text-white">
+              {{ if isset .Params "authors" }}
+              {{ delimit .Params.authors ", "}}
+              {{ end }}
+            </h4>
+          {{ end }}
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <!-- <img src="{{`images/illustrations/dt/cloud_bg.svg`| relURL}}" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="{{`images/illustrations/dt/magenta_hex.svg`| relURL}}" alt="illustrations" class="bg-shape-2">
+  <img src="{{`images/illustrations/dots-cyan.svg`| relURL}}" alt="illustrations" class="bg-shape-3">
+  <img src="{{`images/illustrations/dt/magenta_hex.svg`| relURL}}" alt="illustrations" class="bg-shape-4">
+  <img src="{{`images/illustrations/dt/browser.svg`| relURL}}" alt="illustrations" class="bg-shape-5">
+  <img src="{{`images/illustrations/dots-group-cyan.svg`| relURL}}" alt="illustrations" class="bg-shape-6">
+  <img src="{{`images/illustrations/dt/flying_files.svg`| relURL}}" alt="illustrations" class="bg-shape-7"> -->
+</section>
+<!-- /page title -->

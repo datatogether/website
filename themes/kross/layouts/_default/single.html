@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+  {{ partial "page-title-short.html" . }}
+
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10">
+          <div class="content">
+            <!-- <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4"> -->
+            {{.Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{{ end }}

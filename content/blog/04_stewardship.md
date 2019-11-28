@@ -3,7 +3,6 @@ title: "Discussion: Stewardship (August 2019)"
 tagline: "A Data Together 2019 Reading Group Discussion'"
 date: 2019-10-14T18:00:00-04:00
 draft: false
-menu: main
 authors: ["Kelsey Breseman", "Kevin Nguyen", "Data Together"]
 ---
 

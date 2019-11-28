@@ -2,7 +2,6 @@
 title: "Reading Group"
 date: 2019-10-20T18:00:00-04:00
 draft: false
-menu: main
 ---
 
 Data Together's reading group is an ongoing conversation on themes relevant to data stewardship.

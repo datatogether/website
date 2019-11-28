@@ -4,9 +4,6 @@ tagline: "Communities Stewarding Data Together"
 date: 2018-10-31T18:00:00-04:00
 draft: false
 ---
-
-# Summer - Fall 2018 Data Together Reading Group
-
 The goal of this "syllabus" is to identify some themes that drive Data Together as a project & as a politics, and to find some readings that help us understand those themes better.
 
 ## Themes  

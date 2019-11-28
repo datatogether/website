@@ -1,16 +1,16 @@
 baseURL = "https://datatogether.org/"
 title = "Data Together"
-theme = "datatogether"
+theme = "kross"
 
 metaDataFormat = "toml"
-relativeURLs = true
+# relativeURLs = true
 languageCode = "en-us"
 defaultContentLanguage = "en"
 publishDir = "docs"
 
 [params]
-  # ExtraCssFiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
   domain = "datatogether.org"
+  logo = "images/logo.svg"
   author = "Data Together"
   title = "Data Together"
   description = "Communities stewarding data together"
@@ -21,3 +21,61 @@ publishDir = "docs"
   cacheBuster = true
   dateForm = "Jan 2, 2006"
   dateFormFull = "Mon Jan 2 2006 15:04:05 MST"
+  mainSections = ["blog"]
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/shuffle/shuffle.min.js"
+
+[menu]
+
+  [[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "menu.blog"
+  name = "blog"
+  url = "/blog/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "menu.readings"
+  name = "readings"
+  url = "/readings/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "media"
+  name = "media"
+  url = "/media/"
+  weight = 4
+
+  [[menu.main]]
+  identifier = "join"
+  name = "join"
+  url = "/join/"
+  weight = 5
+
+[params.footer]
+  twitter = "@data_together"
+  github = "datatogether"
