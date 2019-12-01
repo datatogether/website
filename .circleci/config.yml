@@ -7,7 +7,7 @@ jobs:
         ignore:
           - gh-pages
     docker:
-      - image: felicianotech/docker-hugo:0.47.1
+      - image: cibuilds/hugo:0.60
     steps:
       - checkout
       - run:
