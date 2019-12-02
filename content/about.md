@@ -16,21 +16,24 @@ Data Together is an ongoing, inclusive conversation, an open source community, a
 
 Data Together was founded and is led by three partner organizations listed below, and comprises members across the world.
 
-<a href="/join"> <button type="button" class="btn btn-primary">Get involved</button> </a>
+{{< rawhtml >}}
+  <a href="/join"> <button type="button" class="btn btn-primary">Get involved</button> </a>
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-4 col-sm-12 col-xs-12">
-      <a href="https://envirodatagov.org"><img src="/images/EDGI_Logo.png" width="100%" title="EDGI" alt="edgi"></a>
-    </div>
-    <div class="col-md-4 col-sm-12 col-xs-12">
-      <a href="https://qri.io"><img src="/images/blobs_with_large_text_black.png" width="100%" title="Qri" alt="Qri"></a>
-    </div>
-    <div class="col-md-4 col-sm-12 col-xs-12">
-      <a href="https://protocol.ai/"><img src="/images/PL_Logo.png" width="100%" title="Protocol Labs" alt="Protocol Labs"></a>
-    </div>
-  <div>
-</div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-12 col-xs-12">
+        <a href="https://envirodatagov.org"><img src="/images/EDGI_Logo.png" width="100%" title="EDGI" alt="edgi"></a>
+      </div>
+      <div class="col-md-4 col-sm-12 col-xs-12">
+        <a href="https://qri.io"><img src="/images/blobs_with_large_text_black.png" width="100%" title="Qri" alt="Qri"></a>
+      </div>
+      <div class="col-md-4 col-sm-12 col-xs-12">
+        <a href="https://protocol.ai/"><img src="/images/PL_Logo.png" width="100%" title="Protocol Labs" alt="Protocol Labs"></a>
+      </div>
+    <div>
+  </div>
+{{< /rawhtml >}}
+
 
 
 
