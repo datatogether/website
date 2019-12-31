@@ -12,11 +12,9 @@ This semester's syllabus is a set of conversations on themes relevant to informa
 [🎬 **Recorded Call**](https://youtu.be/bW8BYVwVbuo) &nbsp; [🗒 **Notes**](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_02_2019/1-knowledge-commons-2019-04-09.md) &nbsp; [📜 **Blog Post**](https://datatogether.org/posts/01_knowledge_commons/)
 - [Civics](#civics) (May 7)
 [🎬 **Recorded Call**](https://youtu.be/YUt2PxRZCYs) &nbsp; [🗒 **Notes**](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_02_2019/2-civics-2019-05-07.md) &nbsp; [📜 **Blog Post**](https://datatogether.org/posts/02_civics/)
-- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md) [📜 **Blog Post**](https://datatogether.org/posts/03_alternatives_capitalist/)
-- [Stewardship](#stewardship) (August 6) &nbsp; [🎬 **Recorded Call**](https://youtu.be/fbJUSvO_Xvc) &nbsp; [🗒 **Notes**](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_02_2019/4-stewardship-2019-08-06.md)
-- [What is Decentralization?](#what-is-decentralization) (November 12)
-
-*Final sessions' meetings and blog posts are still in process, check back later!*
+- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md)  &nbsp; [📜 **Blog Post**](https://datatogether.org/posts/03_alternatives_capitalist/)
+- [Stewardship](#stewardship) (August 6) &nbsp; [🎬 **Recorded Call**](https://youtu.be/fbJUSvO_Xvc) &nbsp; [🗒 **Notes**](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_02_2019/4-stewardship-2019-08-06.md)  &nbsp; [📜 **Blog Post**](https://datatogether.org/posts/04_stewardship/)
+- [What is Decentralization?](#what-is-decentralization) (November 12) &nbsp; [🎬 **Recorded Call**](https://youtu.be/74jsTUzdOZc) &nbsp; [🗒 **Notes**](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_02_2019/5-decentralization-2019-11-12.md)  &nbsp; [📜 **Blog Post**](https://datatogether.org/posts/06_decentralization/)
 
 ## Sessions
 
