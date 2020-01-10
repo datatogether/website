@@ -16,7 +16,7 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 **BRENDAN**: Welcome to the final topic of this semester of Data Together: decentralization. This is a topic that has pulled a number of us together over the years, months, minutes.
 
-Tonight we're going to look at decentralization in three major contexts I thought it would be nice to bucket these in the context of **technology, groups of people, and the state**.
+Tonight we're going to look at decentralization in three major contexts. I thought it would be nice to bucket these as **technology, groups of people, and the state**.
 
 Sarah Friend's ten-minute introduction to decentralization was a great framing for a lot of this conversation. She had three questions right out the gates:
 
