@@ -6,6 +6,8 @@ draft: false
 
 [**Join the Google Group**](https://groups.google.com/forum/embed/?place=forum/datatogether/join) to be notified of latest Data Together news. Everyone is welcome to join our sessions!
 
+There is also a Slack channel #datatogether in the EDGI-hosted Archivers slack, which you can join [here](https://archivers-slack.herokuapp.com/) if you'd like.
+
 ---
 
 ## Events
