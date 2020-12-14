@@ -106,7 +106,7 @@ Sometimes you have to take a step back. I think Coronavirus is helping us do tha
 
 I'm going to boil that big idea of “controlling the internet” down into something small, my LinkedIn network. Let's say 25 of my friends get a new job. How do they choose the five to suggest that I congratulate? That's a decision made by an algorithm that encodes some arbitrary set of behaviors. I don’t know what those behaviors are; is it based on the last five people I've messaged, or the five people I haven't messaged for the longest time? If I were to pass on two women in a row, it would then stop recommending that I "Say hello" to women—is that one of the attributes it’s tracking?
 
-**It needs to not just encode just your previous behaviors, because a lot of our previous behaviors are based on the networks that we grew up with**. A lot of us have been locked into these segregated worlds, and* *those worlds are not going to change unless those algorithms are cracked into.**
+**It needs to not just encode just your previous behaviors, because a lot of our previous behaviors are based on the networks that we grew up with**. A lot of us have been locked into these segregated worlds, and **those worlds are not going to change unless those algorithms are cracked into.**
 
 Whenever I hear a Spotify song that I don't like, I'm worried about disliking it, because then I think I'm never going to hear that artist again. **I’m afraid the computer is going to overlearn from my input**.
 
@@ -120,7 +120,7 @@ Whenever I hear a Spotify song that I don't like, I'm worried about disliking it
 
 If somebody on the engineering team decided to tag artists by their predominant race and then weight things so the algorithms put bands in front of you that are a little bit more local to your place—there are other categories that are not race specific, that can get other kinds of music in front of you.
 
-**LOURDES**: Before people started writing about this, **the act of tagging a band with their race, like how white or how not-white they were, would be perceived as racist. **And then the question of, who are you, some white dude coder, to determine the race of a band? So then you would have forms when the band puts up their information on Spotify that says, What's your demographic? And then the band will wonder, why is this a question here?
+**LOURDES**: Before people started writing about this, **the act of tagging a band with their race, like how white or how not-white they were, would be perceived as racist.** And then the question of, who are you, some white dude coder, to determine the race of a band? So then you would have forms when the band puts up their information on Spotify that says, What's your demographic? And then the band will wonder, why is this a question here?
 
 
 ## Directly challenging patterns of bias
@@ -188,7 +188,7 @@ This is wildly controversial for all the reasons that are probably obvious to us
 
 ## Environmental harms and systemic bias
 
-**KEVIN**: Some stuff that I was reading made me think about the [ECHO](https://echo.epa.gov/) database [the EPA’s public database of permit compliance and enforcement]. Basically these permits are permissions to pollute [a certain amount], right?** How are the thresholds determined?** How long ago were these determinations made? Were they thought about in aggregate, like, it's okay for one power plant to pollute that much, but what if we had ten of them next to each other? Is there any thought to the cumulative effect of all of them being allowed to pollute in that area? Do you know that stuff, Lourdes? I know you've been studying this.
+**KEVIN**: Some stuff that I was reading made me think about the [ECHO](https://echo.epa.gov/) database [the EPA’s public database of permit compliance and enforcement]. Basically these permits are permissions to pollute [a certain amount], right? **How are the thresholds determined?** How long ago were these determinations made? Were they thought about in aggregate, like, it's okay for one power plant to pollute that much, but what if we had ten of them next to each other? Is there any thought to the cumulative effect of all of them being allowed to pollute in that area? Do you know that stuff, Lourdes? I know you've been studying this.
 
 **LOURDES**: Yeah. **Those thresholds are generally based on white male bodies.** They also are based on the idea that the dose makes the poison—that there’s a dosage at which the pollutants don’t cause harm. That's totally not reflective of reality.
 
