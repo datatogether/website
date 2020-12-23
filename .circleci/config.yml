@@ -18,7 +18,7 @@ jobs:
           command: ./bin/misspell -error ~/website/content/ || true
       - deploy:
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" == "main" ]; then
               hugo
               cd docs
               git config --global user.email "datatogether@qri.io"
