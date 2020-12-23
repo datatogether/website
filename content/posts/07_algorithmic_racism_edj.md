@@ -6,11 +6,11 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-_Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science._
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
 
-_This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/1-algorithmic-racism-edj-2020-03-17.md). Our notes list readings, call out themes, and suggest discussion questions._
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/1-algorithmic-racism-edj-2020-03-17.md). Our notes list readings, call out themes, and suggest discussion questions.*
 
-_This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/0Vg-A9eK-14)._
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/0Vg-A9eK-14).*
 
 ---
 
