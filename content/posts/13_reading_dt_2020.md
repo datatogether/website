@@ -1,7 +1,7 @@
 ---
 title: "Discussing values in a year that tests them"
 tagline: "Data Together 2020"
-date: 2020-12-30T18:00:00-04:00
+date: 2021-01-01T11:00:00-04:00
 draft: false
 authors: ["Kelsey Breseman"]
 ---
@@ -30,3 +30,9 @@ We discussed environmental data justice and algorithmic racism just as the Unite
 I love this little group. I love creating the obligation for myself to seek and pore over citable explanations for aspects of our work and world. I love the ninety minutes at a time where I can see the faces of people I’ve come to know in this specific context of near-future worldbuilding. I love listening over again to the conversations, pulling the themes back out into something digestible as a blog, hearing the arguments afresh and realizing that if I were back in that moment, I would have something new to say.
 
 As ever, Data Together is an open group. [You’re welcome here](https://datatogether.org/join/), to drop in and share your perspectives, even if you haven’t done the readings. The only prerequisite is that you care about these questions: how can we build from the world we have, to make a better one?
+
+---
+
+<img alt="A small yellow flower on a black background" src="/images/blog/13_reading_dt_2020.jpg" width="100%">
+
+*Photo by [Sven Brandsma](https://unsplash.com/@seffen99?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
