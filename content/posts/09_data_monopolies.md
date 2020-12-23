@@ -8,3 +8,10 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 intro
 
+---
+
+<img alt="A tesselated glass structure" src="/images/blog/09_data_monopolies.jpg" width="100%">
+
+*Photo by [Anna Gru](https://unsplash.com/@gruu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
