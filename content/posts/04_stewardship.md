@@ -14,6 +14,12 @@ authors: ["Kelsey Breseman", "Kevin Nguyen", "Data Together"]
 
 ---
 
+<img alt="A spiral of pavement" src="/images/blog/04_stewardship.jpg" width="100%">
+
+*Photo by [Nick Hillier](https://unsplash.com/@nhillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
+
 This month's reading selections begin with traditional notions and practices of stewardship: Pastor Henry Wright's sermon [The Stewardship of Time](https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit); selections from [Haa Tuwunáagu Yís](https://www.goodreads.com/book/show/2146282.Haa_Tuwun_agu_Y_s_for_Healing_Our_Spirit), a collection of Tlingit narratives compiled by Nora Marks Dauenhauer; and [Tending the Wild](https://www.ucpress.edu/book.php?isbn=9780520280434) by Kat Anderson, a view into Ohlone land stewardship practices.
 
 We then touch on present-day data preservation principles: [Theory and Craft of Digital Preservation](https://osf.io/preprints/lissa/5cpjt) by Trevor Owens; and the Society of American Archivists' definition of "[post-custodial theory of archives](https://www2.archivists.org/glossary/terms/p/postcustodial-theory-of-archives)".

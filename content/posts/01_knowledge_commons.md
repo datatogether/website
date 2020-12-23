@@ -14,6 +14,12 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+<img alt="Aerial photo of a circular park surrounded by pavement" src="/images/blog/01_knowledge_commons.jpg" width="100%">
+
+*Photo by [June Dalton](https://unsplash.com/@starworshipper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
+
 Our theme for April 2019 was Knowledge Commons. The group discussed the governance of commons more broadly [last year](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_01_2018/3-commons-2018-08-21.md). This time around, we chose to focus on how knowledge, information, and digital data might be treated and governed as common pool resources. Key themes that emerged in our discussion:
 
   * Defining a knowledge commons through communities’ practice

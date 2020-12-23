@@ -14,6 +14,12 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+<img alt="Downward view of orange neon-lit stairs" src="/images/blog/02_civics.jpg" width="100%">
+
+*Photo by [Gabriel Izgi](https://unsplash.com/@gabrielizgi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
+
 Data Together's theme for May 2019 was Civics. A major lens through which governance of communities is understood is civics and citizenship. We chose this topic in order to think about communities and what forms of space and collective action could be built around decentralized forms of governance.
 
 Key themes that emerged:
