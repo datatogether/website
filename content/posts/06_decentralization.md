@@ -14,6 +14,12 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+<img alt="A rope play structrure made of ropes connected at nodes" src="/images/blog/06_decentralization.jpg" width="100%">
+
+*Photo by [Clint Adair](https://unsplash.com/@clintadair?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
+
 **BRENDAN**: Welcome to the final topic of this semester of Data Together: decentralization. This is a topic that has pulled a number of us together over the years, months, minutes.
 
 Tonight we're going to look at decentralization in three major contexts. I thought it would be nice to bucket these as **technology, groups of people, and the state**.
