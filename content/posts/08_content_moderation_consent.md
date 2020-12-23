@@ -1,16 +1,22 @@
 ---
 title: "Discussion: Content Moderation and Consent (April 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion'"
-date: 2020-12-23T18:00:00-04:00
+date: 2020-12-27T11:00:00-04:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-_Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science._
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
 
-_This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md). Our notes list readings, call out themes, and suggest discussion questions._
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md). Our notes list readings, call out themes, and suggest discussion questions.*
 
-_This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/Sb9pJfypvfg)._
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/Sb9pJfypvfg).*
+
+---
+
+<img alt="Top-down view into metal pins lit in red/purple" src="/images/blog/08_content_moderation_consent.jpg" width="100%">
+
+*Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
 
