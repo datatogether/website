@@ -14,6 +14,12 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+<img alt="Upward view of the sky through a circular opening in an ornate ceiling" src="/images/blog/03_alternatives_capitalist.jpg" width="100%">
+
+*Photo by [mostafa meraji](https://unsplash.com/@mostafa_meraji?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
+
 Many of the issues with current data ownership models tie back to monetization: influence from advertisers, reduction in privacy, and concentrated corporate data ownership. These issues are often justified by the imperative to deliver value to shareholders.
 
 If the levers of capitalism place it in opposition to just data practices, can we imagine an alternative? What systems are practiced or envisioned outside of capitalism? What is their power, and what do they center?
