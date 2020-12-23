@@ -1,7 +1,7 @@
 ---
 title: "Discussion: Algorithmic Racism & Environmental Data Justice (March 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion'"
-date: 2020-12-23T18:00:00-04:00
+date: 2020-12-22T11:00:00-04:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
@@ -12,13 +12,17 @@ _This reading group is something your own collective can do too! We encourage yo
 
 _This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/0Vg-A9eK-14)._
 
-_---_
+---
+
+<img alt="Top-down view into metal pins lit in red/purple" src="/images/blog/07_algorithmic_racism_edj.jpg" width="100%">
+
+*Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
 
 How do choices in technology design and implementation reflect and impact broader social structures? We explore these questions starting with readings from environmental data justice and studies of algorithmic racism.
 
 ## Readings:
-
-
 
 *   EDGI EDJ group, 2019: [EDJ Syllabus](https://envirodatagov.org/announcements-rollout-of-environmental-data-justice-syllabus-and-upcoming-ejxyouth-summit-online-event/)
 *   Sasha Constanza-Chock, 2018: [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
