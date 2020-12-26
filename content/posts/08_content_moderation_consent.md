@@ -95,7 +95,7 @@ It was a whole world; mods had our own group, and a chat. The mods purposely cho
 
 [The reading about the Facebook moderators](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa), that's a whole other level. But **there was some stuff that people posted and I saw that just made me question, what is up with humanity? And why are we, unpaid group mods, doing this?**
 
-DAWN: That was a lot of labor, Lourdes. I know.** It takes a lot of time and a lot of emotional energy.**
+DAWN: That was a lot of labor, Lourdes. I know. **It takes a lot of time and a lot of emotional energy.**
 
 I was thinking also about the Facebook article, and even the Something Awful one. In the background in my mind was that really great [article by James Bridle about auto-generated content targeting children on YouTube](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2), which is deeply creepy and disturbing. And Lisa Nakamura wrote [an article](https://lnakamur.files.wordpress.com/2019/09/nakamura-22screw-your-optics22-film-quarterly.pdf) thinking through this thing, which said, **we see these postings of all of this hateful, misogynist, racist, and deeply disturbing graphic content as aberrations. But what if we took that seriously as an expected outcome? Let's not treat it as an unintended consequence of what these platforms do, but read it as one of their products**. That should help us think about how these spaces are built and maintained.
 
@@ -129,13 +129,13 @@ LOURDES: There's a really good book called Words that Wound, about hate speech, 
 
 ## Social media as a civic forum
 
-KELSEY: I'm curious how platforms play into this discussion of violence, public forums, and freedom of speech.** Facebook and Twitter feel to a lot of people like they're supposed to be a public forum**, even though they're very literally not. **Do you think that if Facebook and Twitter didn't appear to be such big civic forums, that we would request one from the government**, a digital space to discuss things?
+KELSEY: I'm curious how platforms play into this discussion of violence, public forums, and freedom of speech. **Facebook and Twitter feel to a lot of people like they're supposed to be a public forum**, even though they're very literally not. **Do you think that if Facebook and Twitter didn't appear to be such big civic forums, that we would request one from the government**, a digital space to discuss things?
 
 DAWN: There are various governments that have attempted to create those sorts of platforms, but they tend to be a capture for consent, or resistance to ideas.
 
 Canada is a very consultation-heavy country. We get consulted a lot using consultation platforms. I think there's other countries that have models like that, like Decidim, on a different scale in Barcelona. Greece had a way that they were doing these online consultations, but not necessarily in this model of a public forum that maybe Twitter and Facebook now operate at.
 
-But in their original intent,** that’s not what Twitter or Facebook were trying to be**.
+But in their original intent, **that’s not what Twitter or Facebook were trying to be**.
 
 [One of the articles](http://www.slate.com/articles/technology/cover_story/2017/03/twitter_s_timeline_algorithm_and_its_effect_on_us_explained.html) shows that shift in Twitter. The history of Facebook is also a history of shifting; the way that Zuckerberg reformulated their mission multiple times reflects his changing thinking on what their goal is.
 
@@ -238,7 +238,7 @@ KELSEY: I'm resonating a lot with that. I'm a somewhat lapsed maintainer of an o
 
 **Different open source projects mean different things by “open source”, and that's okay.** It has to be okay to say that it is not the maintainer’s job to, A) make your feature, B) accept your pull request, or C) listen to you talk about what you do and don't like about the thing they gave you for free. **Open source can just mean I let you see it; open source can mean I let you suggest things but not contribute; it can mean I let you contribute; it can even mean I help you contribute. But that definition is up to the maintainer.**
 
-That understanding is frequently not reached. I think part of that has to do with open source still being kind of a new field. But part of it also has to do with people coming in with too much idealism. And I say that with a cringe in my body. But** boundaries matter a lot. If you can't make any, you don't have anything meaningful inside of them**.
+That understanding is frequently not reached. I think part of that has to do with open source still being kind of a new field. But part of it also has to do with people coming in with too much idealism. And I say that with a cringe in my body. But **boundaries matter a lot. If you can't make any, you don't have anything meaningful inside of them**.
 
 LOURDES: I know some of you have read You Are Not a Gadget, by Jaron Lanier. He outlines the idea that the internet was a sort of anarchist vision that then became co-opted by capitalism and by our ideas of what a computer interface should look like. The fact that we store our information in a file folder, for example, is the metaphor chosen by one small group of people in deciding what a computer interface should look like.
 
