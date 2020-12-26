@@ -8,7 +8,7 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 *Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
 
-_=*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/3-data-monopolies-2020-05-12.md). Our notes list readings, call out themes, and suggest discussion questions.*
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/3-data-monopolies-2020-05-12.md). Our notes list readings, call out themes, and suggest discussion questions.*
 
 *This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/9RovyYAuPds).*
 
@@ -65,7 +65,7 @@ There are functional differences in the law as well; the European law is not wri
 
 **In the American lens, we don’t necessarily price in externalities.** Are we truly pricing in all the other forms of harm? European courts have interpreted “harm” to include fewer options. Might it also mean violations or potential violations of civil liberties? How about potential national security risks: if Twitter, for example, has too much data, and Saudi Arabia pays a Twitter employee $300,000 to leak information, is that dangerous to me?
 
-**KELSEY**: That's a really great summary. My impression was that, in both US and EU interpretations the intent of antitrust is to not stifle innovation. But then it was a question of,** innovation to what end?** The American interpretation ended up being, **innovation to the end of consumer protection**, versus the EU take is maybe **innovation as an end in itself**.
+**KELSEY**: That's a really great summary. My impression was that, in both US and EU interpretations the intent of antitrust is to not stifle innovation. But then it was a question of, **innovation to what end?** The American interpretation ended up being, **innovation to the end of consumer protection**, versus the EU take is maybe **innovation as an end in itself**.
 
 Contrast that to that Brandeis quote from the Goliath reading, "**Anyone living under a monopoly**, subject to the whim and caprice of a few self-appointed industrialists, **is not a free citizen**," versus this somewhat opposite concept, which is much more Friedman, that **regulation of any kind is inherently bad and stifling to free democracy.**
 
@@ -78,11 +78,11 @@ It seems to me that there are two main conceptions at work in the conversation s
 
 That social good could be economic in a broad sense—so, it could involve innovation. Or it could have a less well-defined ill effect, a kind of moral effect, on how we live, how we think of ourselves, how we relate to one another in a society; Brandeis says it has some effect on freedom, whatever that means.
 
-It seems to me that this broader conception is the one that's interesting. We wouldn't be all up in arms about the monopolies that Google and Apple exercise for the sake of $7 a month.** I think we care because of the idea that there's some moral harm that comes to us as a result of living under a monopoly.**
+It seems to me that this broader conception is the one that's interesting. We wouldn't be all up in arms about the monopolies that Google and Apple exercise for the sake of $7 a month. **I think we care because of the idea that there's some moral harm that comes to us as a result of living under a monopoly.**
 
 **BRENDAN**: I think you make a lot of really good points, Matt. But I think that the specifics of these two interpretations are really important.
 
-In the traditional interpretation, capitalism is a part of functioning society; unbridled capitalism is a problem—so we need some sort of referee. **The existence of antitrust as a category of regulation is all an admission that there's a thing that needs to be brought into balance in this capitalist equation. **I think the framing of "consumer good" that you see in the US is Exhibit A of where a data monopoly is, as Jonathan said, a failure to price in certain problems.
+In the traditional interpretation, capitalism is a part of functioning society; unbridled capitalism is a problem—so we need some sort of referee. **The existence of antitrust as a category of regulation is all an admission that there's a thing that needs to be brought into balance in this capitalist equation.** I think the framing of "consumer good" that you see in the US is Exhibit A of where a data monopoly is, as Jonathan said, a failure to price in certain problems.
 
 The particulars of the laws and antitrust cases are a really interesting point for departure, because they get you back to the big conversations really quickly. **They're the result of a lot of thought, of someone trying to reduce down those big ideas.**
 
@@ -101,7 +101,7 @@ If you read any of Jeff Bezos’s letters to his investors, it's a magnum opus o
 
 Ben Thompson talks about this idea of **[aggregator theory](https://stratechery.com/2017/defining-aggregators/)**. He applies it across several tech platforms. There's a point that you made that I think really nicely intersects there. You have this ephemeral thing that you could think of as the social graph, how we know each other and what we know about each other. That's not something that is owned by Facebook. But by us all having put in that data into this one organization, Facebook is now claiming some ownership of the maintenance of those relationships.
 
-There's market potential where Facebook can cut off access to other apps, and from other aspects, economic impacts for companies that can or cannot exist or need to exist within the rule of Facebook. But I think **there's an underlying issue, which is not a pricing issue. This is a power issue. **As more people adopt the platform, more of this data is pumped into this one monopoly, and if we don't challenge the notion that this data should be owned by an organization, then I think there's questions that fall out. What are the restrictions on power? Or do they have unbridled power?
+There's market potential where Facebook can cut off access to other apps, and from other aspects, economic impacts for companies that can or cannot exist or need to exist within the rule of Facebook. But I think **there's an underlying issue, which is not a pricing issue. This is a power issue.** As more people adopt the platform, more of this data is pumped into this one monopoly, and if we don't challenge the notion that this data should be owned by an organization, then I think there's questions that fall out. What are the restrictions on power? Or do they have unbridled power?
 
 When I think of data monopolies, I'm thinking mainly from the user context, and that ends up boiling down to a handful of very specific tech entities.
 
@@ -122,7 +122,7 @@ I think it should be a very high bar for someone to say that you have a data mon
 
 Facebook takes anticompetitive actions. What does Instagram do when Snapchat is about to release something? Rip it as quickly as possible. There's also this lock-in mechanism, which is anti-user but pro-Facebook. If you were to say, I need to leave Facebook, how do they enable that? You do own the correctness of the data, or if you were to turn off your profile, I think with GDPR, there are more rights associated with you now. But there are still questions about, what has already been scraped and pulled elsewhere? Clearview AI has been in the news as super creepy on this front. Do you even have control at that point?
 
-M**aybe it is an economy of scale, but at a certain functional scale, you suffocate everyone else. **The act of you building out your social network, again, is pretty high.
+**Maybe it is an economy of scale, but at a certain functional scale, you suffocate everyone else.** The act of you building out your social network, again, is pretty high.
 
 And then, **what sort of choices do we then subscribe to if Facebook has the ability to keep most of us on there and retain this information?** What algorithms or value choices are made on our behalf? All of this stems from, they maintain the data, and they have an ability to make it harder to migrate off of their platforms.
 
@@ -137,7 +137,7 @@ That sense of control is not just the data itself that I put in there, the parti
 
 **BRENDAN**: I would posit that your social security number, your credit score are better examples of condoned monopolies. If someone changes your social security number, your life is over. Whoever controls the association between your name and your credit score, that is **where there is an inversion between what's real on the ground, my actions, and a figure in a database**. A modification of that database has horrific real impacts that impact the real world.
 
-With a credit score, **there's a truth that is intrinsic to the world that we're trying to model with the database**, your financial reputation. Actually measuring the raw thing is impossible. And so we use these proxies. We write down those proxies, and then we rely on the people that keep them. So we get these chains, from a thing that is true in the world, to people who are in the business of writing down that thing and becoming** a proxy for truth**.
+With a credit score, **there's a truth that is intrinsic to the world that we're trying to model with the database**, your financial reputation. Actually measuring the raw thing is impossible. And so we use these proxies. We write down those proxies, and then we rely on the people that keep them. So we get these chains, from a thing that is true in the world, to people who are in the business of writing down that thing and becoming **a proxy for truth**.
 
 To me, those are easier examples for understanding what a monopoly is. **I think it's really important to cleave apart something that can be frustrating or bad or an economy of scale from where we need to step in from the regulatory perspective.** Antitrust action should be a really "break glass in case of emergency" moment, in my mind. There should be other mechanisms to fix stuff like Facebook being terrible.
 
@@ -244,7 +244,7 @@ In this black box, people get really worried about all the ways in which this ca
 
 **MATT**: Perhaps the term "data monopolies" is not so useful; and maybe what we really care about is the coercive power of data stores. **Maybe there's something to be said for the way in which the distribution of that data creates coercive power.** If you're the principal actor that has access to this particular data store, then you have the capacity to coerce the market, but also to coerce people into certain kinds of actions.
 
-I think a lot of our thinking in the last three or four years is influenced by the** this idea that there's this kind of dark nexus between experimental psychology and fine-grained profiling that creates a manipulative power that is incompatible with democratic practice **and also incompatible with the Enlightenment, with the idea that it's possible to to create a state of free individuals who are capable of autonomous rational thought. I think that there's something about data concentration that undermines that.
+I think a lot of our thinking in the last three or four years is influenced by **this idea that there's this kind of dark nexus between experimental psychology and fine-grained profiling that creates a manipulative power that is incompatible with democratic practice** and also incompatible with the Enlightenment, with the idea that it's possible to to create a state of free individuals who are capable of autonomous rational thought. I think that there's something about data concentration that undermines that.
 
 Probably that's something that's along the lines of what we care about with data monopolies, but "data monopoly" is not actually a great term for describing that.
 
@@ -252,7 +252,7 @@ Probably that's something that's along the lines of what we care about with data
 
 I'm thinking a lot about the right to be forgotten. We are very much at the dawn of a place where people are starting to amass these profiles, and we're in new territory. We don't know what the effects of this level of knowledge totality or perceived knowledge totality really are.
 
-At some point, you realize that the database that accumulates of you is the sum choice of every decision you've ever made on any platform.** Every time you choose to post, every single time you choose to disclose something**, it is this little karat, and **they continuously accumulate** in a unidirectional knowledge acquisition. That is a very scary thing when you look backwards, when you realize that you have no capacity to control the tail of this thing.
+At some point, you realize that the database that accumulates of you is the sum choice of every decision you've ever made on any platform. **Every time you choose to post, every single time you choose to disclose something**, it is this little karat, and **they continuously accumulate** in a unidirectional knowledge acquisition. That is a very scary thing when you look backwards, when you realize that you have no capacity to control the tail of this thing.
 
 We, as a species, forget stuff. I don't remember every bad interaction I've had with everybody in the world. **Databases don't have that forgetfulness property** when maintained properly. That's a very cognitively difficult thing to get your head around. It's really hard to understand what it's like to live in a world that is permanent in some ways and ephemeral in others, depending on where you are, who you're speaking to, and how you are communicating.
 
