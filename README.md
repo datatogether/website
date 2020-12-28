@@ -55,4 +55,4 @@ We use GitHub issues for [tracking bugs and feature requests](https://github.com
 
 ## Deployment
 
-Data Together is currently hosted on Github Pages with automatic deployment via Circle CI ([deployment logs](https://circleci.com/gh/datatogether/website)). Any changes merged into `master` will automatically go live onto the website.
+Data Together is currently hosted on Github Pages with automatic deployment via Circle CI ([deployment logs](https://circleci.com/gh/datatogether/website)). Any changes merged into `main` will automatically go live onto the website.
