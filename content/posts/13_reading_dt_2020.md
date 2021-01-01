@@ -36,3 +36,7 @@ As ever, Data Together is an open group. [You’re welcome here](https://datatog
 <img alt="A small yellow flower on a black background" src="/images/blog/13_reading_dt_2020.jpg" width="100%">
 
 *Photo by [Sven Brandsma](https://unsplash.com/@seffen99?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
+
+[2020 Data Together Syllabus](https://datatogether.org/reading/semester_3/)
