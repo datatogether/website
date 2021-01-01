@@ -146,7 +146,7 @@ I don't know how well that argument holds up in the context of billions of peopl
 
 **KEVIN**: Money is this system that  we’ve been born into; it feels more like coercion than trust. We exchange money, not because we trust each other, but because we've been forced to do so.
 
-**Systems that are not trying to revolutionize financial systems aren't enough** because it doesn't take into account the things that Kelsey was mentioning, at the protests, people giving away hand sanitizer and stuff for free. That’s not a monetary transaction, it’s a build of trust.
+**Systems that are not trying to revolutionize financial systems aren't enough** because it doesn't take into account the things that Kelsey was mentioning, at the protests, people giving away hand sanitizer and stuff for free. That’s not a monetary transaction, it’s slowly building trust.
 
 **BRENDAN**: You're getting at the point that I care about the most, which is that **trust, for me, comes from a system that feels like I have both agency and freedom to do whatever I want**. That is one of the reasons I gravitate toward barter economies.
 
@@ -195,7 +195,7 @@ SSB is a disintermediated platform. We often use the word centralization, but in
 
 If protesters are interacting with police in the flesh, then they're very vulnerable. But on social media, they can yell at the police department in public, and everyone can see what they're saying. Everyone can understand, the police department just posted some bullshit, and everyone's calling it out. Sometimes it's not a bad thing to have an intermediary.
 
-**KEVIN**: One aspect of the impossibility trust between the protestors and the police is the anonymity. **The police are covering up their badges and their names, and they're not really individuals anymore**, they're just this blob of force. **How can you ever know them in that context?** They're not creating an environment for trust.
+**KEVIN**: One aspect of the impossibility of trust between the protestors and the police is the anonymity. **The police are covering up their badges and their names, and they're not really individuals anymore**, they're just this blob of force. **How can you ever know them in that context?** They're not creating an environment for trust.
 
 **MASH**: I don't think trust is really possible in that environment. 
 
