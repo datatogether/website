@@ -2,7 +2,7 @@
 title: "Discussion: Trust (June 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion"
 date: 2021-01-03T11:00:00-04:00
-draft: true
+draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
@@ -197,11 +197,11 @@ If protesters are interacting with police in the flesh, then they're very vulner
 
 **KEVIN**: One aspect of the impossibility of trust between the protestors and the police is the anonymity. **The police are covering up their badges and their names, and they're not really individuals anymore**, they're just this blob of force. **How can you ever know them in that context?** They're not creating an environment for trust.
 
-**MASH**: I don't think trust is really possible in that environment. 
+**MASH**: I don't think trust is really possible in that environment.
 
 There are some contexts where anonymity is very important. But **I think that we can't really have trust in an anonymous situation, because trust depends on continuity of relationship**. In social experiments about altruism, if it's a one time interaction, you're less likely to be altruistic. But if you know that you will have to collaborate with a person again and again in the future, you'll act more prosocially, in order to gain the possibility of trust later in the future.
 
-We talked a little bit about how monetization facilitates a quid pro quo mentality. But if I'm building a trusting relationship with somebody, while there might be a balance in terms of give and take, **the trust itself is valuable**, not just the individual transactions. 
+We talked a little bit about how monetization facilitates a quid pro quo mentality. But if I'm building a trusting relationship with somebody, while there might be a balance in terms of give and take, **the trust itself is valuable**, not just the individual transactions.
 
 I think anonymity has to be symmetrical in order to allow for trust.
 
