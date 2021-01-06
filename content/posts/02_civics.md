@@ -6,22 +6,6 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/4AWPHEHKTEiF-Cs1AAuFOw), which includes specific themes and discussion questions (the readings are listed at the end of this post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
-
-*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/YUt2PxRZCYs) for the full discussion!*
-
----
-
-{{< rawhtml >}}
-<img alt="Downward view of orange neon-lit stairs" src="/images/blog/02_civics.jpg" width="100%">
-{{< /rawhtml >}}
-
-*Photo by [Gabriel Izgi](https://unsplash.com/@gabrielizgi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 Data Together's theme for May 2019 was Civics. A major lens through which governance of communities is understood is civics and citizenship. We chose this topic in order to think about communities and what forms of space and collective action could be built around decentralized forms of governance.
 
 Key themes that emerged:
@@ -38,6 +22,14 @@ Our second core reading was Paul Frazee's "[Information Civics](https://infocivi
 We also make reference to Peter Nyers' "[No One Is Illegal Between City and Nation](https://journals.library.brocku.ca/index.php/SSJ/article/view/998)". Nyers frames citizenship as a type of *action* rather than *a state of being*. Citizenship for him comprises neither rights nor responsibilities, but a particular relationship or stance towards political action.
 
 For links to these and the other supplementary readings, please see the full list at the end of the post.
+
+---
+
+{{< rawhtml >}}
+<img alt="Downward view of orange neon-lit stairs" src="/images/blog/02_civics.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [Gabriel Izgi](https://unsplash.com/@gabrielizgi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
 
@@ -291,3 +283,11 @@ For me, the take-home lesson is that we really do not have, and may have to be c
     - Nyers, P. (2010). [No one is illegal between city and nation](https://journals.library.brocku.ca/index.php/SSJ/article/view/998). Studies in social justice, 4(2), 127. Available at: [https://journals.library.brocku.ca/index.php/SSJ/article/view/998](https://journals.library.brocku.ca/index.php/SSJ/article/view/998) (open access)
     - Guardian article ['No human being is illegal'](https://www.theguardian.com/us-news/2015/dec/06/illegal-immigrant-label-offensive-wrong-activists-say) (2015)
     - Wikipedia article on [History of Citizenship](https://en.wikipedia.org/wiki/History_of_citizenship)
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/4AWPHEHKTEiF-Cs1AAuFOw), which includes specific themes and discussion questions (the readings are listed at the end of this post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
+
+*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/YUt2PxRZCYs) for the full discussion!*

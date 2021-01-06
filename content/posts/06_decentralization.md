@@ -6,16 +6,8 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/1q0UK3XpTQa66lpRn5mRJQ). The template lists readings, calls out themes, and suggests discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/74jsTUzdOZc) for the full discussion!*
-
----
-
 {{< rawhtml >}}
-<img alt="A rope play structrure made of ropes connected at nodes" src="/images/blog/06_decentralization.jpg" width="100%">
+<img alt="A rope play structure made of ropes connected at nodes" src="/images/blog/06_decentralization.jpg" width="100%">
 {{< /rawhtml >}}
 
 *Photo by [Clint Adair](https://unsplash.com/@clintadair?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
@@ -225,3 +217,11 @@ The question is, **where is that commitment in these other endeavors, or these o
 9. Adi Robertson. **[How the Biggest Decentralized Social Network is Dealing With its Nazi Problem](https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking)**
 10. Darius Kazemi. **[Run Your Own Social](https://runyourown.social/)**
 11. Longer talk of Sarah Friend. **[Decentralization and its Discontents](https://youtu.be/Km6EYsBYAlY?t=64)**
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/1q0UK3XpTQa66lpRn5mRJQ). The template lists readings, calls out themes, and suggests discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/74jsTUzdOZc) for the full discussion!*

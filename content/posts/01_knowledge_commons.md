@@ -6,11 +6,14 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
+Our theme for April 2019 was Knowledge Commons. The group discussed the governance of commons more broadly [last year](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_01_2018/3-commons-2018-08-21.md). This time around, we chose to focus on how knowledge, information, and digital data might be treated and governed as common pool resources. Key themes that emerged in our discussion:
 
-*This reading group is something your own collective can do too! We encourage you to draw [on our notes document template](https://hackmd.io/1E48PTAMQMW0USPGED9WOw), which includes specific themes and discussion questions we prepare for each month’s readings (the readings are listed at the end of the post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
+  * Defining a knowledge commons through communities’ practice
+  * The cost of sharing digital informational resources - is it really zero?
+  * The problem of underutilizing knowledge commons: incentives and participation
+  * Strategies for knowledge “commoning”: sustainability, technical vs social solutions, and trust and accountability
 
-*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://www.youtube.com/watch?v=bW8BYVwVbuo&list=PLtsP3g9LafVv78TIa42xr591-4CfKMYQO&index=2&t=0s) for the full discussion!*
+Our discussion centers around "commons": as Ostrom defines it, a complex ecosystem; a resource that is shared by a group of people that is subject to social dilemmas (Ostrom, 3). Naturally, our discussion opens with the question of definitions.
 
 ---
 
@@ -21,15 +24,6 @@ authors: ["Kelsey Breseman", "Data Together"]
 *Photo by [June Dalton](https://unsplash.com/@starworshipper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
-
-Our theme for April 2019 was Knowledge Commons. The group discussed the governance of commons more broadly [last year](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_01_2018/3-commons-2018-08-21.md). This time around, we chose to focus on how knowledge, information, and digital data might be treated and governed as common pool resources. Key themes that emerged in our discussion:
-
-  * Defining a knowledge commons through communities’ practice
-  * The cost of sharing digital informational resources - is it really zero?
-  * The problem of underutilizing knowledge commons: incentives and participation
-  * Strategies for knowledge “commoning”: sustainability, technical vs social solutions, and trust and accountability
-
-Our discussion centers around "commons": as Ostrom defines it, a complex ecosystem; a resource that is shared by a group of people that is subject to social dilemmas (Ostrom, 3). Naturally, our discussion opens with the question of definitions.
 
 
 ## What is a commons? How do we distinguish a knowledge commons?
@@ -193,3 +187,11 @@ I’m always so grateful and honored to be with this group. And even though we o
 * Melanie Dulong de Rosnay, Hervé Le Crosnier. [An Introduction to the Digital Commons: From Common-Pool Resources to Community Governance., 2012.](https://halshs.archives-ouvertes.fr/halshs-00736920/document)
 * This twitter thread from mmildenberger: https://twitter.com/mmildenberger/status/1102604887223750657 ([Spooled](https://tinysubversions.com/spooler/?url=https://twitter.com/mmildenberger/status/1102613535224287232))
 * Garrett Hardin’s “[The Tragedy of the Commons](http://science.sciencemag.org/content/162/3859/1243/tab-pdf)”
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
+
+*This reading group is something your own collective can do too! We encourage you to draw [on our notes document template](https://hackmd.io/1E48PTAMQMW0USPGED9WOw), which includes specific themes and discussion questions we prepare for each month’s readings (the readings are listed at the end of the post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
+
+*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://www.youtube.com/watch?v=bW8BYVwVbuo&list=PLtsP3g9LafVv78TIa42xr591-4CfKMYQO&index=2&t=0s) for the full discussion!*
