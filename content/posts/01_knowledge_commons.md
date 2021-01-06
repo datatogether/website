@@ -14,7 +14,9 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+{{< rawhtml >}}
 <img alt="Aerial photo of a circular park surrounded by pavement" src="/images/blog/01_knowledge_commons.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [June Dalton](https://unsplash.com/@starworshipper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -42,7 +44,7 @@ Our discussion centers around "commons": as Ostrom defines it, a complex ecosyst
 
 **MICHELLE**: Yeah, from my work at Protocol Labs, it's often less valuable to define something as commons or not, and more valuable to explore how communities manage resources with externalities.
 
-**LIZ**: And in our decentralized data archiving project, we wondered about how communities define each other in order to set goals for access to data sharing. It's reasonable to approach that through **Ostrom's 8** and see where we get with respect to community self-regulation and structures to exclude and include. 
+**LIZ**: And in our decentralized data archiving project, we wondered about how communities define each other in order to set goals for access to data sharing. It's reasonable to approach that through **Ostrom's 8** and see where we get with respect to community self-regulation and structures to exclude and include.
 
 *The "Ostrom's 8" that Liz refers to are eight design principles of robust, long-enduring, common-pool resource institutions which Ostrom identifies (Ostrom, 7):*
 
@@ -79,7 +81,7 @@ This reminded me of what happened [in the wake of Data Rescue](https://rgs-ibg.o
 
 **KEVIN**:  What about the [tragedy of the anticommons](https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons)? With natural resources, the problem is overuse, but the problem with the knowledge commons is that people underuse resources or don't add to them. **What incentives could we propose so they'd join and contribute?**
 
-**ROB**: Traditionally it's been fame, power. Liz was talking earlier about about what brings people together (survival). Or validation from close peers– this is super sticky. 
+**ROB**: Traditionally it's been fame, power. Liz was talking earlier about about what brings people together (survival). Or validation from close peers– this is super sticky.
 
 **BRENDAN**:  In our group here we have a lot of really colorful examples of constructing a commons around environmental data. **But what about social networks/media– are they a commons?**
 
@@ -142,7 +144,7 @@ This reminds me of the work of the Python community, which aggressively moved to
 
 We don't want to go all the way to the other end of the spectrum and connect folks with no common interests, but our opportunity is to put in effort at bringing diverse folks to the table *before* starting.
 
-Our group includes people interested in commons principles and people interested in technologies– let's continue to compose the types of people we collaborate with as a method for busting out of collaborating. 
+Our group includes people interested in commons principles and people interested in technologies– let's continue to compose the types of people we collaborate with as a method for busting out of collaborating.
 
 **ROB**: I come immediately back to Michelle's question about how to bring out our best selves at the technology level. We've talked before about Twitter– one of Twitter's biggest problems is that you feel like you have to always have a hot take. If you don't respond quickly and violently on Twitter, then you're not doing it right. But there are features elsewhere that ask you "are you sure?", like Gmail not sending an email for 30 seconds so that you can undo it. Can we do this at more levels / all levels in the technology stack?
 
@@ -150,7 +152,7 @@ Our group includes people interested in commons principles and people interested
 
 ## Accountability & trust
 
-**ROB**: This connects to the Dulong de Rosnay piece: a counterpoint to anonymity in online spaces is reputation. It means you can't have throwaway accounts; you need a durable identity. You can't be a bad actor under a different name. 
+**ROB**: This connects to the Dulong de Rosnay piece: a counterpoint to anonymity in online spaces is reputation. It means you can't have throwaway accounts; you need a durable identity. You can't be a bad actor under a different name.
 
 **LIZ**: I have experimented with sidestepping reputation as a prime value in a commons context. Reputation can have some of the same undesirable impacts (incumbencies, authority, over-representation). Often, we're moving at the speed of "did you test it for yourself, and did it work?" Empiricism can be slow, but in a knowledge commons, understanding "pre-authenticated knowledge" from another system is just moving it into a new context.
 
@@ -166,7 +168,7 @@ Our group includes people interested in commons principles and people interested
 
 **BRENDAN**: I don't think there is one. Studying photography brought this to me– you can't take a picture of the future. You can barely capture the present. Anything that exists in the digital world is just a partial, twisted version of the real world.
 
-**ROB**: Brendan and I had a conversation from a few weeks ago about where trust is involved in a system. **Blockchain seems predicated on the idea that we can prove trust, but then you have to choose what you trust.** I've heard it said, "it's attesting, but it's not proving"– that's an important concept here when moving between realms of digital and analog. These are important seams in the systems, where we should all be paying the most attention. 
+**ROB**: Brendan and I had a conversation from a few weeks ago about where trust is involved in a system. **Blockchain seems predicated on the idea that we can prove trust, but then you have to choose what you trust.** I've heard it said, "it's attesting, but it's not proving"– that's an important concept here when moving between realms of digital and analog. These are important seams in the systems, where we should all be paying the most attention.
 
 **BRENDAN**: **"Trust comes from people, not cryptography."** That's my anti-tragedy of the commons line. I don't think there's a causal connection from physical to digital, but there is going from digital to physical. When someone has shown who they are online, I can then trust them in the real world.
 
@@ -182,7 +184,7 @@ At home, I keep our bikes in the bike shed with no lock on the door. Every once 
 They define a homogeneous group as “people working towards a common goal”. I think us, wanting to change the world for the better, working together towards that, is what makes us “homogeneous”.
 
 I’m always so grateful and honored to be with this group. And even though we obviously don’t have all the answers, we have some great questions. That’s a great place to start!
- 
+
 ---
 
 **Readings**
