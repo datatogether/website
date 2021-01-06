@@ -6,20 +6,6 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/4-trust-2020-06-09.md). Our notes list readings, call out themes, and suggest discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/dgQuGy5BdAw).*
-
----
-
-<img alt="A close-up of a series of padlocks" src="/images/blog/10_trust.jpg" width="100%">
-
-*Photo by [Marcos Mayer](https://unsplash.com/@mmayyer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 Data Together’s conversation on Trust took place in the context of early June 2020: a continuing Trump presidency, COVID quarantine already feeling long, and the George Floyd rebellion of police riots against Black Lives Matter protestors in full force.
 
 Our conversations as Data Together intend to be context aware: we draw both from readings and from the varied perspectives and experiences of participants in the conversation.
@@ -36,6 +22,13 @@ In the Trust conversation, we asked: New technologies attempt to free us from (d
 *   David Cohen and William Mougayar (2015, Jan 18). [After The Social Web, Here Comes The Trust Web](https://techcrunch.com/2015/01/18/after-the-social-web-here-comes-the-trust-web/)
 *   Finn Brunton (2019). _Chapter 3 (pp. 33-46) and "The Trust Bulb" in Chapter 10 (pp. 165-170) only_ from [Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists who created Cryptocurrency](https://press.princeton.edu/books/hardcover/9780691179490/digital-cash)
 
+---
+
+<img alt="A close-up of a series of padlocks" src="/images/blog/10_trust.jpg" width="100%">
+
+*Photo by [Marcos Mayer](https://unsplash.com/@mmayyer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
 
 ## Introducing the readings
 
@@ -230,3 +223,11 @@ On the other hand, **I'm not sure to what extent they’re actually succeeding a
 **KELSEY**: There's this line of thought I always come back to around nuclear power and nuclear waste, and the argument about whether that could ever be safe. It’s common to set the tolerance limit for nuclear waste radiation at zero. But there exists ambient radiation in unmined uranium ore. By setting the limit at zero, you make it impossible. But what if we were to use that ambient radiation as a more sensible baseline?
 
 Similarly, we the public are fallible. But **our guardrail shouldn't be whether we're fallible, it should be whether our methods are better than the fallibility that is already inherent in the system**.
+
+---
+
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/4-trust-2020-06-09.md). Our notes list readings, call out themes, and suggest discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/dgQuGy5BdAw).*
