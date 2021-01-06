@@ -6,22 +6,6 @@ draft: false
 authors: ["Kelsey Breseman", "Kevin Nguyen", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/kKt8JbHvSzC6NnK6OgccWQ). The template lists readings, calls out themes, and suggests discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/fbJUSvO_Xvc) for the full discussion!*
-
----
-
-{{< rawhtml >}}
-<img alt="A spiral of pavement" src="/images/blog/04_stewardship.jpg" width="100%">
-{{< /rawhtml >}}
-
-*Photo by [Nick Hillier](https://unsplash.com/@nhillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 This month's reading selections begin with traditional notions and practices of stewardship: Pastor Henry Wright's sermon [The Stewardship of Time](https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit); selections from [Haa Tuwunáagu Yís](https://www.goodreads.com/book/show/2146282.Haa_Tuwun_agu_Y_s_for_Healing_Our_Spirit), a collection of Tlingit narratives compiled by Nora Marks Dauenhauer; and [Tending the Wild](https://www.ucpress.edu/book.php?isbn=9780520280434) by Kat Anderson, a view into Ohlone land stewardship practices.
 
 We then touch on present-day data preservation principles: [Theory and Craft of Digital Preservation](https://osf.io/preprints/lissa/5cpjt) by Trevor Owens; and the Society of American Archivists' definition of "[post-custodial theory of archives](https://www2.archivists.org/glossary/terms/p/postcustodial-theory-of-archives)".
@@ -34,6 +18,13 @@ These readings explore the definition of stewardship; proper use as a form of ca
 
 Please see the bottom of the post for a full list of reading selections.
 
+---
+
+{{< rawhtml >}}
+<img alt="A spiral of pavement" src="/images/blog/04_stewardship.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [Nick Hillier](https://unsplash.com/@nhillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
 ## Defining stewardship
@@ -303,3 +294,11 @@ This is from "[The Witness](https://thefloatinglibrary.com/2008/09/14/the-witnes
 
 * Andrew Russel & Lee Vinsel, [Hail the maintainers](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more), 2016
 *  LTER (1990): [Long-Term Ecological Research and the Invisible Present, and Long-Term Ecological Research and the Invisible Place](https://lternet.edu/wp-content/themes/ndic/library/pdf/reports/Number%209.pdf)
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/kKt8JbHvSzC6NnK6OgccWQ). The template lists readings, calls out themes, and suggests discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/fbJUSvO_Xvc) for the full discussion!*
