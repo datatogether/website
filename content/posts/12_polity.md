@@ -6,21 +6,9 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/6-polity-2020-11-03.md). Our notes list readings, call out themes, and suggest discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/dLuJC7rkud8).*
-
----
-
-<img alt="A wall of round pebbles" src="/images/blog/12_polity.jpg" width="100%">
-
-*Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 Who are the groups of people to whom we are connected in systems of governance? To whom do we owe allegiance?
+
+<!--more-->
 
 ## Readings
 
@@ -34,6 +22,13 @@ Other material:
 
 *   (optional) ['Indigenous people are a polity'. On sovereignty and constitutional recognition](https://theconversation.com/indigenous-people-are-a-polity-on-sovereignty-and-constitutional-recognition-44287)
 
+---
+
+<img alt="A wall of round pebbles" src="/images/blog/12_polity.jpg" width="100%">
+
+*Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
 
 ## Understanding the polity of Data Together
 
@@ -130,3 +125,11 @@ People do that work on their own, but it's tough work. They have to do it as ind
 It's not one sided. **Technologists have to learn from people who are really theoretical or people who are activists, but also, activists and theorists need to grapple with why things are built the ways they are.** That’s so important to thinking about how to build them better.
 
 That putting-into-practice moment is a question for Data Together. If we're not doing the putting into practice in Data Together now, **how do we support people as they take things back to their own place where they're putting it into practice?**
+
+---
+
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/6-polity-2020-11-03.md). Our notes list readings, call out themes, and suggest discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/dLuJC7rkud8).*
