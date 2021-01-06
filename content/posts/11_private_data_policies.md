@@ -6,11 +6,28 @@ draft: true
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+How have particular implementations of data privacy policies impacted humans, economics, and legal systems? What are appropriate expectations around data privacy, and who should inform, create, or enforce policies?
 
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/5-privacy-2020-09-22.md). Our notes list readings, call out themes, and suggest discussion questions.*
+<!--more-->
 
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/Qiw-WKBQ8A4).*
+## Readings
+
+Grounding
+
+*   Brookman & Hans, Center for Democracy & Technology (2013) [Why Collection Matters: Surveillance as a De Facto Privacy Harm](https://cdt.org/insights/report-why-collection-matters-surveillance-as-a-de-facto-privacy-harm/) on why data collection matters
+*   (optional) Hochfellner, Lane, and Kreuter, Responsible Data Science, NYU Center for Data Science (2019) [Privacy and Confidentiality](https://dataresponsibly.github.io/courses/documents/spring19/Lecture4.pdf) slides 1-9, 14, 18-19, 35-37 definitions and introductions to challenges and tools
+
+Attempted and proposed solutions
+
+*   Sobers, Varonis (a cybersecurity company) (2020) [A Year in the Life of the GDPR: Must-Know Stats and Takeaways](https://www.varonis.com/blog/gdpr-effect-review/) a review of one year of GDPR implementation
+*   Office of the Press Secretary, The White House (2012) [We Can’t Wait: Obama Administration Unveils Blueprint for a “Privacy Bill of Rights” to Protect Consumers Online](https://obamawhitehouse.archives.gov/the-press-office/2012/02/23/we-can-t-wait-obama-administration-unveils-blueprint-privacy-bill-rights) Obama White House proposed approach
+*   O'Connor, Digital and Cyberspace Policy Program, Council on Foreign Relations (2018) [Reforming the U.S. Approach to Data Protection and Privacy](https://www.cfr.org/report/reforming-us-approach-data-protection) a critique of current U.S. approach and suggestion for path forward
+*   (optional) Balkin & Zittrain, The Atlantic (2016) [A Grand Bargain to Make Tech Companies More Trustworthy](https://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/) on applying the legal concept of a fiduciary to information as well as to finances (intersection with [Trust conversation](https://datatogether.org/posts/10_trust/))
+
+Other optional readings
+
+*   (optional) FTC (2017) [Informational Injury Workshop](https://www.ftc.gov/news-events/events-calendar/2017/12/informational-injury-workshop#:~:text=The%20Federal%20Trade%20Commission%20hosted,Acting%20FTC%20Chairman%20Maureen%20K.&text=The%20FTC%20invites%20comments%20from,topics%20covered%20in%20the%20workshop.) insight on how the U.S. government collects public comment on this topic
+*   (optional) [Challenging algorithmic profiling: The limits of data protection and anti-discrimination in responding to emergent discrimination](https://journals.sagepub.com/doi/pdf/10.1177/2053951719895805)
 
 ---
 
@@ -20,36 +37,7 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
-How have particular implementations of data privacy policies impacted humans, economics, and legal systems? What are appropriate expectations around data privacy, and who should inform, create, or enforce policies?
-
-
-## Readings
-
-Grounding
-
-
-
-*   Brookman & Hans, Center for Democracy & Technology (2013) [Why Collection Matters: Surveillance as a De Facto Privacy Harm](https://cdt.org/insights/report-why-collection-matters-surveillance-as-a-de-facto-privacy-harm/) on why data collection matters
-*   (optional) Hochfellner, Lane, and Kreuter, Responsible Data Science, NYU Center for Data Science (2019) [Privacy and Confidentiality](https://dataresponsibly.github.io/courses/documents/spring19/Lecture4.pdf) slides 1-9, 14, 18-19, 35-37 definitions and introductions to challenges and tools
-
-Attempted and proposed solutions
-
-
-
-*   Sobers, Varonis (a cybersecurity company) (2020) [A Year in the Life of the GDPR: Must-Know Stats and Takeaways](https://www.varonis.com/blog/gdpr-effect-review/) a review of one year of GDPR implementation
-*   Office of the Press Secretary, The White House (2012) [We Can’t Wait: Obama Administration Unveils Blueprint for a “Privacy Bill of Rights” to Protect Consumers Online](https://obamawhitehouse.archives.gov/the-press-office/2012/02/23/we-can-t-wait-obama-administration-unveils-blueprint-privacy-bill-rights) Obama White House proposed approach
-*   O'Connor, Digital and Cyberspace Policy Program, Council on Foreign Relations (2018) [Reforming the U.S. Approach to Data Protection and Privacy](https://www.cfr.org/report/reforming-us-approach-data-protection) a critique of current U.S. approach and suggestion for path forward
-*   (optional) Balkin & Zittrain, The Atlantic (2016) [A Grand Bargain to Make Tech Companies More Trustworthy](https://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/) on applying the legal concept of a fiduciary to information as well as to finances (intersection with [Trust conversation](https://datatogether.org/posts/10_trust/))
-
-Other optional readings
-
-
-
-*   (optional) FTC (2017) [Informational Injury Workshop](https://www.ftc.gov/news-events/events-calendar/2017/12/informational-injury-workshop#:~:text=The%20Federal%20Trade%20Commission%20hosted,Acting%20FTC%20Chairman%20Maureen%20K.&text=The%20FTC%20invites%20comments%20from,topics%20covered%20in%20the%20workshop.) insight on how the U.S. government collects public comment on this topic
-*   (optional) [Challenging algorithmic profiling: The limits of data protection and anti-discrimination in responding to emergent discrimination](https://journals.sagepub.com/doi/pdf/10.1177/2053951719895805)
-
 ## Introducing the readings
-
 
 **KELSEY**: Today we’ll be talking a lot about **risk** and **harm** from failures in the **handling of private data**. Jonathan, do you want to start by talking about some of the readings?
 
@@ -249,3 +237,11 @@ I do wonder what negative ramifications it could have to create more personal cu
 What you’re doing, **integrating into different communities to ask these questions,** is a source of hope for me. That's what I want Data Together to be too, for people, a space to really think about this stuff.
 
 **GREG**: I feel like we need grief counseling for technologists. **More people need to go through the process of mourning for the internet that we grew up believing in, and for the notions that inspired us to do this work.** We have to grieve. We have to let it go, and see what comes up through that process. What are we left with?
+
+---
+
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/5-privacy-2020-09-22.md). Our notes list readings, call out themes, and suggest discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/Qiw-WKBQ8A4).*
