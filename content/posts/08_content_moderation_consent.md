@@ -14,7 +14,9 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+{{< rawhtml >}}
 <img alt="Top-down view into metal pins lit in red/purple" src="/images/blog/08_content_moderation_consent.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

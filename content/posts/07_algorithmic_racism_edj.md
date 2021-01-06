@@ -14,7 +14,9 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+{{< rawhtml >}}
 <img alt="Top-down view into metal pins lit in red/purple" src="/images/blog/07_algorithmic_racism_edj.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

@@ -14,7 +14,9 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+{{< rawhtml >}}
 <img alt="Downward view of orange neon-lit stairs" src="/images/blog/02_civics.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [Gabriel Izgi](https://unsplash.com/@gabrielizgi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -148,7 +150,7 @@ For any given person, for any given agenda they may have, it can be complicated 
 
 I had two reactions to that at the same time. Part of me was so grateful to hear it: please let that be true, because so little of what I've ever done seems to have any concrete effect– *and* on the other hand, skepticism that that result should be taken seriously, because there *is* so much that has to change at the policy level. If we continue to fail to move those dials, there are so many disasters waiting for us on the other side.
 
-I think we sometimes look for metrics that may not measure our success very well. Hopefully, what we're doing is changing people. 
+I think we sometimes look for metrics that may not measure our success very well. Hopefully, what we're doing is changing people.
 
 ## Defining a civic body
 
@@ -280,9 +282,9 @@ For me, the take-home lesson is that we really do not have, and may have to be c
 
 **Readings**
 
-1. Iseult Honohan, Chapter V "Common goods and public virtue" in *[Civic Republicanism](https://www.taylorfrancis.com/books/e/9781134616114/chapters/10.4324/9780203460894-10)*. 
-2. Paul Frazee [Information Civics](https://infocivics.com/). Available at: [https://infocivics.com/](https://infocivics.com/). 
-3. *Optional* Johnson, P., & Robinson, P. (2014). [Civic hackathons: Innovation, procurement, or civic engagement?](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) Review of Policy Research, 31(4), 349-357. Available at: [https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) 
+1. Iseult Honohan, Chapter V "Common goods and public virtue" in *[Civic Republicanism](https://www.taylorfrancis.com/books/e/9781134616114/chapters/10.4324/9780203460894-10)*.
+2. Paul Frazee [Information Civics](https://infocivics.com/). Available at: [https://infocivics.com/](https://infocivics.com/).
+3. *Optional* Johnson, P., & Robinson, P. (2014). [Civic hackathons: Innovation, procurement, or civic engagement?](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) Review of Policy Research, 31(4), 349-357. Available at: [https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074)
 4. *Optional* **Rethinking the Civic and Citizenship**
     These optional readings flesh out the problem of citizenship especially through an examination of the [*No one is Illegal*](http://nooneisillegal.org/) anti-racist and migrant movement. We often construct our sense of "civic" around a rights-based and liberal "citizenship regime". By examining places where that construct breaks down -- especially around immigration status -- we can maybe come to grips with the ways that "citizenship" can let us down, and maybe even the limitations of "civic" as a concept.  
     - Stanford Encyclopedia of Philosophy article on [Citizenship](https://plato.stanford.edu/entries/citizenship), esp. [citizens and non-citizens](https://plato.stanford.edu/entries/citizenship/#CitiNonCitiRigh) and [feminist critique](https://plato.stanford.edu/entries/citizenship/#FemiCrit)

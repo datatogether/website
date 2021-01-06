@@ -14,7 +14,9 @@ authors: ["Kelsey Breseman", "Data Together"]
 
 ---
 
+{{< rawhtml >}}
 <img alt="Upward view of the sky through a circular opening in an ornate ceiling" src="/images/blog/03_alternatives_capitalist.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [mostafa meraji](https://unsplash.com/@mostafa_meraji?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -48,7 +50,7 @@ Weeks speaks to this, too:
 
 *Weeks, 8:*
 
-> Dreams of individual accomplishment and desires to contribute to the common good become firmly attached to waged work, where they can be hijacked to rather different ends: to produce neither individual riches nor social wealth, but privately appropriated surplus value. 
+> Dreams of individual accomplishment and desires to contribute to the common good become firmly attached to waged work, where they can be hijacked to rather different ends: to produce neither individual riches nor social wealth, but privately appropriated surplus value.
 
 And then at the end of the day, you're too tired to do anything else.
 
@@ -211,7 +213,7 @@ The article by [GEO](http://www.geo.coop/about) offers something as well. This p
 
 *The seven cooperative principles as listed in the [GEO article](http://www.geo.coop/story/cooperative-principles-common-good-and-solidarity) are:*
 > 1. *Voluntary and open membership*
-> 1. *Democratic member control* 
+> 1. *Democratic member control*
 > 1. *Member economic participation*
 > 1. *Autonomy and independence*
 > 1. *Education, training and information*
@@ -443,10 +445,10 @@ There were a lot of books mentioned in this discussion *outside* of the reading 
 
 #### Fiction
 
-* "[The Peripheral](https://www.goodreads.com/book/show/20821159-the-peripheral)" by William Gibson 
+* "[The Peripheral](https://www.goodreads.com/book/show/20821159-the-peripheral)" by William Gibson
 * "[Walkaway](https://www.goodreads.com/book/show/40604388-walkaway)" by Cory Doctorow
 * "[New York 2140](https://www.goodreads.com/book/show/29570143-new-york-2140)" by Kim Stanley Robinson
-* "[Ubik](https://www.goodreads.com/book/show/22590.Ubik)" by Philip K. Dick 
+* "[Ubik](https://www.goodreads.com/book/show/22590.Ubik)" by Philip K. Dick
 * "[Radicalized](https://www.goodreads.com/book/show/41447687-radicalized)" Cory Doctorow
 
 #### Nonfiction

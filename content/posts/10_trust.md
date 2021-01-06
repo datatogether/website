@@ -10,7 +10,9 @@ intro
 
 ---
 
+{{< rawhtml >}}
 <img alt="A close-up of a series of padlocks" src="/images/blog/10_trust.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [Marcos Mayer](https://unsplash.com/@mmayyer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
