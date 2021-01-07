@@ -1,7 +1,7 @@
 ---
 title: "Discussion: Algorithmic Racism & Environmental Data Justice (March 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion'"
-date: 2021-12-07T02:00:00-20:00
+date: 2021-12-07T02:00:00-24:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
