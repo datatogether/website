@@ -6,7 +6,7 @@ draft: false
 authors: ["Kelsey Breseman"]
 ---
 
-2020 was a year far apart from ordinary. The year, we saw fear, courage, trust, the practice of daily sacrifice for the benefit of the greater community. We each made small choices with large impacts. We felt the struggle to feel connected in a world requiring greater isolation. As a global community, we felt from varying distances raging wildfires, melting sea ice, critical elections, necessary rebellions, and people in the streets both fighting and making food to share with strangers. Every day’s decisions ask us to draw upon our values, but times of great change make those choices more visible than ever.
+2020 was a year far apart from ordinary. We saw fear, courage, trust, the practice of daily sacrifice for the benefit of the greater community. We each made small choices with large impacts. We felt the struggle to feel connected in a world requiring greater isolation. As a global community, we felt from varying distances raging wildfires, melting sea ice, critical elections, necessary rebellions, and people in the streets both fighting and making food to share with strangers. Every day’s decisions ask us to draw upon our values, but times of great change make those choices more visible than ever.
 
 Data Together is a space set aside for stepping back: it’s a place to ask ourselves and each other about worlds we dream of creating. We set aside the *tasks* of work  to ask questions about the *nature* of the Work. Drawing texts from philosophers, economists, radicals and activists, technologists, and caretakers of practices both ancient and novel, we make the time to ask questions:
 
