@@ -1,39 +1,36 @@
 ---
 title: "Discussion: Algorithmic Racism & Environmental Data Justice (March 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion'"
-date: 2020-12-26T11:00:00-04:00
+date: 2021-01-11T07:00:00-20:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+How do choices in technology design and implementation reflect and impact broader social structures? We explore these questions starting with readings from environmental data justice and studies of algorithmic racism.
 
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/1-algorithmic-racism-edj-2020-03-17.md). Our notes list readings, call out themes, and suggest discussion questions.*
+<!--more-->
 
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/0Vg-A9eK-14).*
+## Readings
+
+* EDGI EDJ group, 2019: [EDJ Syllabus](https://envirodatagov.org/announcements-rollout-of-environmental-data-justice-syllabus-and-upcoming-ejxyouth-summit-online-event/)
+* Sasha Constanza-Chock, 2018: [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
+* EDJ (Lourdes Vera, Dawn Walker, and many more, EDGI), 2018: [When Data Justice and Environmental Justice Meet: Formulating a Response to Extractive Logic Through Environmental Data Justice](https://drive.google.com/file/d/14erRGMYNgc6b2iJNwXGGX0leQigFdAHm/view)
+* Mark Wilkinson, Michel Dumontier, and many more authors, 2016: [FAIR Principles for Scientific Data Management and Stewardship](https://www.go-fair.org/fair-principles/)
+* Research Data Alliance International Indigenous Data Sovereignty Interest Group, 2019, in The Global Indigenous Data Alliance: [CARE Principles for Indigenous Data Governance](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE+Principles_One+Pagers+FINAL_Oct_17_2019.pdf)
+* Max Liboiron, 2017: [Pollution is Colonialism](https://discardstudies.com/2017/09/01/pollution-is-colonialism/)
+* Dan Robitzsky for Futurism, 2019: [TikTok Secretly Hid Videos by Fat, LGBTQ, Mentally Disabled Users](https://futurism.com/the-byte/tiktok-hid-videos-fat-lgbtq-mentally-disabled)
+* Edward Ongweso Jr. for Vice, 2019: [Racial Bias in AI Isn’t Getting Better and Neither Are Researchers’ Excuses](https://www.vice.com/en_us/article/8xzwgx/racial-bias-in-ai-isnt-getting-better-and-neither-are-researchers-excuses)
+* Rebecca Heilweil for Vox, 2020: [Why Algorithms Can Be Racist and Sexist](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency)
 
 ---
 
+{{< rawhtml >}}
 <img alt="Top-down view into metal pins lit in red/purple" src="/images/blog/07_algorithmic_racism_edj.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
-
-How do choices in technology design and implementation reflect and impact broader social structures? We explore these questions starting with readings from environmental data justice and studies of algorithmic racism.
-
-## Readings:
-
-*   EDGI EDJ group, 2019: [EDJ Syllabus](https://envirodatagov.org/announcements-rollout-of-environmental-data-justice-syllabus-and-upcoming-ejxyouth-summit-online-event/)
-*   Sasha Constanza-Chock, 2018: [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
-*   EDJ (Lourdes Vera, Dawn Walker, and many more, EDGI), 2018: [When Data Justice and Environmental Justice Meet: Formulating a Response to Extractive Logic Through Environmental Data Justice](https://drive.google.com/file/d/14erRGMYNgc6b2iJNwXGGX0leQigFdAHm/view)
-*   Mark Wilkinson, Michel Dumontier, and many more authors, 2016: [FAIR Principles for Scientific Data Management and Stewardship](https://www.go-fair.org/fair-principles/)
-*   Research Data Alliance International Indigenous Data Sovereignty Interest Group, 2019, in The Global Indigenous Data Alliance: [CARE Principles for Indigenous Data Governance](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE+Principles_One+Pagers+FINAL_Oct_17_2019.pdf)
-*   Max Liboiron, 2017: [Pollution is Colonialism](https://discardstudies.com/2017/09/01/pollution-is-colonialism/)
-*   Dan Robitzsky, 2019: [TikTok Secretly Hid Videos by Fat, LGBTQ, Mentally Disabled Users](https://futurism.com/the-byte/tiktok-hid-videos-fat-lgbtq-mentally-disabled)
-*   Edward Ongweso Jr, 2019: [Racial Bias in AI Isn’t Getting Better and Neither Are Researchers’ Excuses](https://www.vice.com/en_us/article/8xzwgx/racial-bias-in-ai-isnt-getting-better-and-neither-are-researchers-excuses)
-*   Rebecca Heilweil, 2020: [Why Algorithms Can Be Racist and Sexist](https://www.vox.com/recode/2020/2/18/21121286/algorithms-bias-discrimination-facial-recognition-transparency)
-
 
 ## Introducing the readings
 
@@ -207,3 +204,11 @@ Adding to this is the fact that **companies prevent certain science from happeni
 I also like that you shared the CARE principles alongside the FAIR principles. The FAIR principles were really data-centric, but the CARE principles were talking about the communities or what would happen with data.
 
 Thinking about design justice makes a lot of sense in this realm: **how do we make sure that these communities are brought forward at the very beginning of any problem solving exercise, problem solving process?**
+
+---
+
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/1-algorithmic-racism-edj-2020-03-17.md). Our notes list readings, call out themes, and suggest discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/0Vg-A9eK-14).*

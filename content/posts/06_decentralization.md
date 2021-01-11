@@ -6,15 +6,9 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/1q0UK3XpTQa66lpRn5mRJQ). The template lists readings, calls out themes, and suggests discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/74jsTUzdOZc) for the full discussion!*
-
----
-
-<img alt="A rope play structrure made of ropes connected at nodes" src="/images/blog/06_decentralization.jpg" width="100%">
+{{< rawhtml >}}
+<img alt="A rope play structure made of ropes connected at nodes" src="/images/blog/06_decentralization.jpg" width="100%">
+{{< /rawhtml >}}
 
 *Photo by [Clint Adair](https://unsplash.com/@clintadair?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -88,7 +82,7 @@ Stefan wrote a piece where he suggested the thought experiment of flipping that 
 
 There's plenty of work out there by Bruno Latour and others about value-laden science. But then thinking of politics as something that could somehow be value-free– I thought it played with this idea of trust.
 
-**When we try to remove trust, in the case of decentralizing knowledge networks, it's a way of us looking for a value-free tech.** 
+**When we try to remove trust, in the case of decentralizing knowledge networks, it's a way of us looking for a value-free tech.**
 
 What happens if we stop trying to do away with the responsibility of trust in our tech, and then stopped worrying about it quite so much in our decision-making networks?
 
@@ -124,7 +118,7 @@ I intentionally want to invoke this Cartesian framing (in the sense of Descartes
 
 As someone who has struggled with building this type of technology, I think there is a place where the heuristic enters, and it's very difficult to know where that is; you feel so confident because of the math.
 
-**MATT**: This brings us to Walch and her piece on Deconstructing Decentralization. It seems to me that that what is at issue in that piece is where the ground is to be found laying the foundation of the argument. Now we can start solving problems because certainty is here, right? And in the same way, **the certainty of the cryptographic solution becomes an ideological condition, which wins arguments that maybe it shouldn't win.** 
+**MATT**: This brings us to Walch and her piece on Deconstructing Decentralization. It seems to me that that what is at issue in that piece is where the ground is to be found laying the foundation of the argument. Now we can start solving problems because certainty is here, right? And in the same way, **the certainty of the cryptographic solution becomes an ideological condition, which wins arguments that maybe it shouldn't win.**
 
 Walch's argument is that you can find concentrations of power, and watch them being applied to these systems that you believe are immune to the application of power. It shows that the systems are not purely technical, but are also social. And when we pretend that they're purely technical, we misrepresent them to ourselves.
 
@@ -212,14 +206,22 @@ The question is, **where is that commitment in these other endeavors, or these o
 ---
 
 7. James C. Scott. (1998) **[Seeing Like a State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)**
-    - pp. 309-311 (beginning of chapter 9), 
-    - pp. 323-328 "Practical Knowledge Versus Scientific Explanation" 
+    - pp. 309-311 (beginning of chapter 9),
+    - pp. 323-328 "Practical Knowledge Versus Scientific Explanation"
     - pp. 333-339 "The Social Context of Metis and Its Destruction"
-8. Jessica J. Prentice. **[The Most Dangerous Notion in Reinventing Organizations](https://medium.com/@jessicajprentice/the-most-dangerous-notion-in-reinventing-organizations-9032930295e2)** 
+8. Jessica J. Prentice. **[The Most Dangerous Notion in Reinventing Organizations](https://medium.com/@jessicajprentice/the-most-dangerous-notion-in-reinventing-organizations-9032930295e2)**
 ---
 
 *Optional*
 
-9. Adi Robertson. **[How the Biggest Decentralized Social Network is Dealing With its Nazi Problem](https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking)** 
+9. Adi Robertson. **[How the Biggest Decentralized Social Network is Dealing With its Nazi Problem](https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking)**
 10. Darius Kazemi. **[Run Your Own Social](https://runyourown.social/)**
 11. Longer talk of Sarah Friend. **[Decentralization and its Discontents](https://youtu.be/Km6EYsBYAlY?t=64)**
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/1q0UK3XpTQa66lpRn5mRJQ). The template lists readings, calls out themes, and suggests discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/74jsTUzdOZc) for the full discussion!*

@@ -6,20 +6,6 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/4AWPHEHKTEiF-Cs1AAuFOw), which includes specific themes and discussion questions (the readings are listed at the end of this post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
-
-*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/YUt2PxRZCYs) for the full discussion!*
-
----
-
-<img alt="Downward view of orange neon-lit stairs" src="/images/blog/02_civics.jpg" width="100%">
-
-*Photo by [Gabriel Izgi](https://unsplash.com/@gabrielizgi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 Data Together's theme for May 2019 was Civics. A major lens through which governance of communities is understood is civics and citizenship. We chose this topic in order to think about communities and what forms of space and collective action could be built around decentralized forms of governance.
 
 Key themes that emerged:
@@ -36,6 +22,14 @@ Our second core reading was Paul Frazee's "[Information Civics](https://infocivi
 We also make reference to Peter Nyers' "[No One Is Illegal Between City and Nation](https://journals.library.brocku.ca/index.php/SSJ/article/view/998)". Nyers frames citizenship as a type of *action* rather than *a state of being*. Citizenship for him comprises neither rights nor responsibilities, but a particular relationship or stance towards political action.
 
 For links to these and the other supplementary readings, please see the full list at the end of the post.
+
+---
+
+{{< rawhtml >}}
+<img alt="Downward view of orange neon-lit stairs" src="/images/blog/02_civics.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [Gabriel Izgi](https://unsplash.com/@gabrielizgi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
 
@@ -148,7 +142,7 @@ For any given person, for any given agenda they may have, it can be complicated 
 
 I had two reactions to that at the same time. Part of me was so grateful to hear it: please let that be true, because so little of what I've ever done seems to have any concrete effect– *and* on the other hand, skepticism that that result should be taken seriously, because there *is* so much that has to change at the policy level. If we continue to fail to move those dials, there are so many disasters waiting for us on the other side.
 
-I think we sometimes look for metrics that may not measure our success very well. Hopefully, what we're doing is changing people. 
+I think we sometimes look for metrics that may not measure our success very well. Hopefully, what we're doing is changing people.
 
 ## Defining a civic body
 
@@ -280,12 +274,20 @@ For me, the take-home lesson is that we really do not have, and may have to be c
 
 **Readings**
 
-1. Iseult Honohan, Chapter V "Common goods and public virtue" in *[Civic Republicanism](https://www.taylorfrancis.com/books/e/9781134616114/chapters/10.4324/9780203460894-10)*. 
-2. Paul Frazee [Information Civics](https://infocivics.com/). Available at: [https://infocivics.com/](https://infocivics.com/). 
-3. *Optional* Johnson, P., & Robinson, P. (2014). [Civic hackathons: Innovation, procurement, or civic engagement?](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) Review of Policy Research, 31(4), 349-357. Available at: [https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) 
+1. Iseult Honohan, Chapter V "Common goods and public virtue" in *[Civic Republicanism](https://www.taylorfrancis.com/books/e/9781134616114/chapters/10.4324/9780203460894-10)*.
+2. Paul Frazee [Information Civics](https://infocivics.com/). Available at: [https://infocivics.com/](https://infocivics.com/).
+3. *Optional* Johnson, P., & Robinson, P. (2014). [Civic hackathons: Innovation, procurement, or civic engagement?](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) Review of Policy Research, 31(4), 349-357. Available at: [https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074)
 4. *Optional* **Rethinking the Civic and Citizenship**
     These optional readings flesh out the problem of citizenship especially through an examination of the [*No one is Illegal*](http://nooneisillegal.org/) anti-racist and migrant movement. We often construct our sense of "civic" around a rights-based and liberal "citizenship regime". By examining places where that construct breaks down -- especially around immigration status -- we can maybe come to grips with the ways that "citizenship" can let us down, and maybe even the limitations of "civic" as a concept.  
     - Stanford Encyclopedia of Philosophy article on [Citizenship](https://plato.stanford.edu/entries/citizenship), esp. [citizens and non-citizens](https://plato.stanford.edu/entries/citizenship/#CitiNonCitiRigh) and [feminist critique](https://plato.stanford.edu/entries/citizenship/#FemiCrit)
     - Nyers, P. (2010). [No one is illegal between city and nation](https://journals.library.brocku.ca/index.php/SSJ/article/view/998). Studies in social justice, 4(2), 127. Available at: [https://journals.library.brocku.ca/index.php/SSJ/article/view/998](https://journals.library.brocku.ca/index.php/SSJ/article/view/998) (open access)
     - Guardian article ['No human being is illegal'](https://www.theguardian.com/us-news/2015/dec/06/illegal-immigrant-label-offensive-wrong-activists-say) (2015)
     - Wikipedia article on [History of Citizenship](https://en.wikipedia.org/wiki/History_of_citizenship)
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/4AWPHEHKTEiF-Cs1AAuFOw), which includes specific themes and discussion questions (the readings are listed at the end of this post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
+
+*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/YUt2PxRZCYs) for the full discussion!*

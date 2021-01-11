@@ -6,20 +6,6 @@ draft: false
 authors: ["Kelsey Breseman", "Kevin Nguyen", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/kKt8JbHvSzC6NnK6OgccWQ). The template lists readings, calls out themes, and suggests discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/fbJUSvO_Xvc) for the full discussion!*
-
----
-
-<img alt="A spiral of pavement" src="/images/blog/04_stewardship.jpg" width="100%">
-
-*Photo by [Nick Hillier](https://unsplash.com/@nhillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 This month's reading selections begin with traditional notions and practices of stewardship: Pastor Henry Wright's sermon [The Stewardship of Time](https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit); selections from [Haa Tuwunáagu Yís](https://www.goodreads.com/book/show/2146282.Haa_Tuwun_agu_Y_s_for_Healing_Our_Spirit), a collection of Tlingit narratives compiled by Nora Marks Dauenhauer; and [Tending the Wild](https://www.ucpress.edu/book.php?isbn=9780520280434) by Kat Anderson, a view into Ohlone land stewardship practices.
 
 We then touch on present-day data preservation principles: [Theory and Craft of Digital Preservation](https://osf.io/preprints/lissa/5cpjt) by Trevor Owens; and the Society of American Archivists' definition of "[post-custodial theory of archives](https://www2.archivists.org/glossary/terms/p/postcustodial-theory-of-archives)".
@@ -32,6 +18,13 @@ These readings explore the definition of stewardship; proper use as a form of ca
 
 Please see the bottom of the post for a full list of reading selections.
 
+---
+
+{{< rawhtml >}}
+<img alt="A spiral of pavement" src="/images/blog/04_stewardship.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [Nick Hillier](https://unsplash.com/@nhillier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
 ## Defining stewardship
@@ -44,7 +37,7 @@ For example, my religious background was my first exposure to the idea of stewar
 
 > Stewardship is the management of various assets that don't belong to you ... authority, responsibility, accountability ... faithfulness is the minimum requirement for the steward.
 
-**BRENDAN**: For me, **a steward is a librarian, an archivist, somebody with knowledge of library science.** 
+**BRENDAN**: For me, **a steward is a librarian, an archivist, somebody with knowledge of library science.**
 
 Stewardship has a deep connection to the notion of availability. A steward can keep something accessible and available for a long time. **Someone who is stewarding something is taking on a very serious commitment. It's a real responsibility to be a steward of an artifact.**
 
@@ -103,9 +96,9 @@ That space is harder to talk about. In efforts to create a post-archival or post
 **You don't have to opt in to storing the data**, or even thinking about data. It's on the protocol level.
 
 *SSB is a [gossip protocol](https://en.wikipedia.org/wiki/Gossip_protocol) in which data is hosted by users, who share one another's data based on whether they are "friends". Learn more on [SSB's concept page for their gossip implementation](https://www.scuttlebutt.nz/concepts/gossip).*
- 
+
  I use this data because it's the digital aspect of my social life. But by using it, I am stewarding it. *I* am the owner of the data, not a company like Facebook. You gain access to it *through my stewardship*.
- 
+
 In SSB, people create data, and share it directly with each other as they use it. I think that's really powerful. That's a way we could go forward.
 
 **ROB**: Pushing the concept of stewardship down into the protocol is good in that it makes it easy. It’s core to its use. But **I worry about the ways in which that could hide stewardship from conscious consideration.**
@@ -113,7 +106,7 @@ In SSB, people create data, and share it directly with each other as they use it
 That is a big part of what's different in the distributed web: stewardship should be conscious. You should think about where it physically exists. **A thing only exists if it's well stewarded by multiple people.**
 
 I think it's critical that if we have systems we want to work well, that gets surfaced somehow.
- 
+
 **BRENDAN**: From [the reading on Post-custodial Archiving](https://journals.litwinbooks.com/index.php/jclis/article/view/87), there's a line that just jumped off the page:
 
 > The continuous custodianship of material objects can no longer be the focus of archival practice. It becomes necessary to shift traditionally archival labor to record creators. (6, Alpert-Adams et al.)
@@ -273,7 +266,7 @@ This is from "[The Witness](https://thefloatinglibrary.com/2008/09/14/the-witnes
 1. Pastor Henry Wright, The Stewardship of Time, 2019: 2:50-6:17. [Transcript](https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit)
 2. Nora Marks Dauenhauer, [Haa Tuwunáagu Yís](https://www.goodreads.com/book/show/2146282.Haa_Tuwun_agu_Y_s_for_Healing_Our_Spirit), 1990: Elders Speak to the Future:
     * 263-267
-    * 277-281 
+    * 277-281
 3. Kat Anderson, [Tending the Wild](https://www.ucpress.edu/book.php?isbn=9780520280434) (2005):
     * xv-xviii (Preface)
     * 2-6 (Introduction)
@@ -297,7 +290,15 @@ This is from "[The Witness](https://thefloatinglibrary.com/2008/09/14/the-witnes
     * Quote on page 75
     * 125-130 (How to sustain)
 
-*Optional*: 
+*Optional*:
 
 * Andrew Russel & Lee Vinsel, [Hail the maintainers](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more), 2016
 *  LTER (1990): [Long-Term Ecological Research and the Invisible Present, and Long-Term Ecological Research and the Invisible Place](https://lternet.edu/wp-content/themes/ndic/library/pdf/reports/Number%209.pdf)
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants' backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/kKt8JbHvSzC6NnK6OgccWQ). The template lists readings, calls out themes, and suggests discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/fbJUSvO_Xvc) for the full discussion!*

@@ -6,20 +6,6 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
-
-*This reading group is something your own collective can do too! We encourage you to draw [on our notes document template](https://hackmd.io/1E48PTAMQMW0USPGED9WOw), which includes specific themes and discussion questions we prepare for each month’s readings (the readings are listed at the end of the post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
-
-*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://www.youtube.com/watch?v=bW8BYVwVbuo&list=PLtsP3g9LafVv78TIa42xr591-4CfKMYQO&index=2&t=0s) for the full discussion!*
-
----
-
-<img alt="Aerial photo of a circular park surrounded by pavement" src="/images/blog/01_knowledge_commons.jpg" width="100%">
-
-*Photo by [June Dalton](https://unsplash.com/@starworshipper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 Our theme for April 2019 was Knowledge Commons. The group discussed the governance of commons more broadly [last year](https://github.com/datatogether/reading_datatogether/blob/master/notes/semester_01_2018/3-commons-2018-08-21.md). This time around, we chose to focus on how knowledge, information, and digital data might be treated and governed as common pool resources. Key themes that emerged in our discussion:
 
   * Defining a knowledge commons through communities’ practice
@@ -28,6 +14,16 @@ Our theme for April 2019 was Knowledge Commons. The group discussed the governan
   * Strategies for knowledge “commoning”: sustainability, technical vs social solutions, and trust and accountability
 
 Our discussion centers around "commons": as Ostrom defines it, a complex ecosystem; a resource that is shared by a group of people that is subject to social dilemmas (Ostrom, 3). Naturally, our discussion opens with the question of definitions.
+
+---
+
+{{< rawhtml >}}
+<img alt="Aerial photo of a circular park surrounded by pavement" src="/images/blog/01_knowledge_commons.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [June Dalton](https://unsplash.com/@starworshipper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
 
 
 ## What is a commons? How do we distinguish a knowledge commons?
@@ -42,7 +38,7 @@ Our discussion centers around "commons": as Ostrom defines it, a complex ecosyst
 
 **MICHELLE**: Yeah, from my work at Protocol Labs, it's often less valuable to define something as commons or not, and more valuable to explore how communities manage resources with externalities.
 
-**LIZ**: And in our decentralized data archiving project, we wondered about how communities define each other in order to set goals for access to data sharing. It's reasonable to approach that through **Ostrom's 8** and see where we get with respect to community self-regulation and structures to exclude and include. 
+**LIZ**: And in our decentralized data archiving project, we wondered about how communities define each other in order to set goals for access to data sharing. It's reasonable to approach that through **Ostrom's 8** and see where we get with respect to community self-regulation and structures to exclude and include.
 
 *The "Ostrom's 8" that Liz refers to are eight design principles of robust, long-enduring, common-pool resource institutions which Ostrom identifies (Ostrom, 7):*
 
@@ -79,7 +75,7 @@ This reminded me of what happened [in the wake of Data Rescue](https://rgs-ibg.o
 
 **KEVIN**:  What about the [tragedy of the anticommons](https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons)? With natural resources, the problem is overuse, but the problem with the knowledge commons is that people underuse resources or don't add to them. **What incentives could we propose so they'd join and contribute?**
 
-**ROB**: Traditionally it's been fame, power. Liz was talking earlier about about what brings people together (survival). Or validation from close peers– this is super sticky. 
+**ROB**: Traditionally it's been fame, power. Liz was talking earlier about about what brings people together (survival). Or validation from close peers– this is super sticky.
 
 **BRENDAN**:  In our group here we have a lot of really colorful examples of constructing a commons around environmental data. **But what about social networks/media– are they a commons?**
 
@@ -142,7 +138,7 @@ This reminds me of the work of the Python community, which aggressively moved to
 
 We don't want to go all the way to the other end of the spectrum and connect folks with no common interests, but our opportunity is to put in effort at bringing diverse folks to the table *before* starting.
 
-Our group includes people interested in commons principles and people interested in technologies– let's continue to compose the types of people we collaborate with as a method for busting out of collaborating. 
+Our group includes people interested in commons principles and people interested in technologies– let's continue to compose the types of people we collaborate with as a method for busting out of collaborating.
 
 **ROB**: I come immediately back to Michelle's question about how to bring out our best selves at the technology level. We've talked before about Twitter– one of Twitter's biggest problems is that you feel like you have to always have a hot take. If you don't respond quickly and violently on Twitter, then you're not doing it right. But there are features elsewhere that ask you "are you sure?", like Gmail not sending an email for 30 seconds so that you can undo it. Can we do this at more levels / all levels in the technology stack?
 
@@ -150,7 +146,7 @@ Our group includes people interested in commons principles and people interested
 
 ## Accountability & trust
 
-**ROB**: This connects to the Dulong de Rosnay piece: a counterpoint to anonymity in online spaces is reputation. It means you can't have throwaway accounts; you need a durable identity. You can't be a bad actor under a different name. 
+**ROB**: This connects to the Dulong de Rosnay piece: a counterpoint to anonymity in online spaces is reputation. It means you can't have throwaway accounts; you need a durable identity. You can't be a bad actor under a different name.
 
 **LIZ**: I have experimented with sidestepping reputation as a prime value in a commons context. Reputation can have some of the same undesirable impacts (incumbencies, authority, over-representation). Often, we're moving at the speed of "did you test it for yourself, and did it work?" Empiricism can be slow, but in a knowledge commons, understanding "pre-authenticated knowledge" from another system is just moving it into a new context.
 
@@ -166,7 +162,7 @@ Our group includes people interested in commons principles and people interested
 
 **BRENDAN**: I don't think there is one. Studying photography brought this to me– you can't take a picture of the future. You can barely capture the present. Anything that exists in the digital world is just a partial, twisted version of the real world.
 
-**ROB**: Brendan and I had a conversation from a few weeks ago about where trust is involved in a system. **Blockchain seems predicated on the idea that we can prove trust, but then you have to choose what you trust.** I've heard it said, "it's attesting, but it's not proving"– that's an important concept here when moving between realms of digital and analog. These are important seams in the systems, where we should all be paying the most attention. 
+**ROB**: Brendan and I had a conversation from a few weeks ago about where trust is involved in a system. **Blockchain seems predicated on the idea that we can prove trust, but then you have to choose what you trust.** I've heard it said, "it's attesting, but it's not proving"– that's an important concept here when moving between realms of digital and analog. These are important seams in the systems, where we should all be paying the most attention.
 
 **BRENDAN**: **"Trust comes from people, not cryptography."** That's my anti-tragedy of the commons line. I don't think there's a causal connection from physical to digital, but there is going from digital to physical. When someone has shown who they are online, I can then trust them in the real world.
 
@@ -182,7 +178,7 @@ At home, I keep our bikes in the bike shed with no lock on the door. Every once 
 They define a homogeneous group as “people working towards a common goal”. I think us, wanting to change the world for the better, working together towards that, is what makes us “homogeneous”.
 
 I’m always so grateful and honored to be with this group. And even though we obviously don’t have all the answers, we have some great questions. That’s a great place to start!
- 
+
 ---
 
 **Readings**
@@ -191,3 +187,11 @@ I’m always so grateful and honored to be with this group. And even though we o
 * Melanie Dulong de Rosnay, Hervé Le Crosnier. [An Introduction to the Digital Commons: From Common-Pool Resources to Community Governance., 2012.](https://halshs.archives-ouvertes.fr/halshs-00736920/document)
 * This twitter thread from mmildenberger: https://twitter.com/mmildenberger/status/1102604887223750657 ([Spooled](https://tinysubversions.com/spooler/?url=https://twitter.com/mmildenberger/status/1102613535224287232))
 * Garrett Hardin’s “[The Tragedy of the Commons](http://science.sciencemag.org/content/162/3859/1243/tab-pdf)”
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
+
+*This reading group is something your own collective can do too! We encourage you to draw [on our notes document template](https://hackmd.io/1E48PTAMQMW0USPGED9WOw), which includes specific themes and discussion questions we prepare for each month’s readings (the readings are listed at the end of the post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
+
+*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://www.youtube.com/watch?v=bW8BYVwVbuo&list=PLtsP3g9LafVv78TIa42xr591-4CfKMYQO&index=2&t=0s) for the full discussion!*

@@ -1,27 +1,14 @@
 ---
 title: "Discussion: Data Monopolies (May 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion"
-date: 2020-12-28T11:00:00-04:00
+date: 2021-01-18T07:00:00-20:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/3-data-monopolies-2020-05-12.md). Our notes list readings, call out themes, and suggest discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/9RovyYAuPds).*
-
----
-
-<img alt="A tesselated glass structure" src="/images/blog/09_data_monopolies.jpg" width="100%">
-
-*Photo by [Anna Gru](https://unsplash.com/@gruu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 Most of our data and information is controlled by a handful of companies. How did this come to be, what are examples of responsible and irresponsible holding of this power, and how do we imagine we might slip the trap of data monopolies?
 
+<!--more-->
 
 ## Readings
 
@@ -48,6 +35,15 @@ Optional bits to play around with for discussion:
 *   Google/FB/Apple reports about data movement: [Facebook Data for Good Mobility Dashboard](https://visualization.covid19mobility.org/)
 *   More reading on modern monopolies: Harry Lambert, NewStatesman (2019): [Matt Stoller's Goliath: the rise of big tech](https://www.newstatesman.com/goliath-matt-stoller-review)
 
+---
+
+{{< rawhtml >}}
+<img alt="A tesselated glass structure" src="/images/blog/09_data_monopolies.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [Anna Gru](https://unsplash.com/@gruu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
 
 ## EU vs US interpretations of monopoly
 
@@ -257,3 +253,11 @@ At some point, you realize that the database that accumulates of you is the sum 
 We, as a species, forget stuff. I don't remember every bad interaction I've had with everybody in the world. **Databases don't have that forgetfulness property** when maintained properly. That's a very cognitively difficult thing to get your head around. It's really hard to understand what it's like to live in a world that is permanent in some ways and ephemeral in others, depending on where you are, who you're speaking to, and how you are communicating.
 
 I want the capacity to turn to that memory machine and say, I would selectively like you to forget about this. I want a law that says that I as a rational person know that this is a one-way thing and I will suffer some loss in service quality for it, but I can choose to do it anyway.
+
+---
+
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/3-data-monopolies-2020-05-12.md). Our notes list readings, call out themes, and suggest discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/9RovyYAuPds).*

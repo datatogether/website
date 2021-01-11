@@ -1,33 +1,21 @@
 ---
 title: "Discussion: Content Moderation and Consent (April 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion'"
-date: 2020-12-27T11:00:00-04:00
+date: 2021-01-13T07:00:00-20:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md). Our notes list readings, call out themes, and suggest discussion questions.*
-
-*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/Sb9pJfypvfg).*
-
----
-
-<img alt="Top-down view into metal pins lit in red/purple" src="/images/blog/08_content_moderation_consent.jpg" width="100%">
-
-*Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 This topic covers factors that impact the content that we see. How do platforms balance freedom of expression versus consent to avoid offensive content, navigate algorithmic versus human moderation and curation, or incentivize different types of interaction? What are downstream effects of these choices?
+
+<!--more-->
 
 ## Readings
 
 *   Bijan Stephen for The Verge: "[Something Awful's Founder Thinks Youtube Sucks at Moderation](https://www.theverge.com/2019/6/26/18744264/something-awful-youtube-moderation-rich-kyanka-lgbtq)" (2019) - strategies for moderation from Something Awful's founder
 *   Casey Newton for The Verge: "[Bodies in Seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)" (2019) - around outsourced content moderation & its impacts on the humans who have to view & judge the content. Would recommend:
     *   From the beginning to "But for the first time, three former moderators for Facebook in North America agreed to break their nondisclosure agreements and discuss working conditions at the site on the record."
-    *   NOT RECOMMENDED: the middle of the article for this group– it's good reporting but needs a content warning for graphic descriptions (and the intro gets the points across)
+    *   NOT RECOMMENDED: the middle of the article for this group—it's good reporting but needs a content warning for graphic descriptions (and the intro gets the points across)
 *   Jussi Passanen: "[Human centred design considered harmful](https://www.jussipasanen.com/human-centred-design-considered-harmful)" – how good design principles applied to business sense can be harmful for humans, especially in the context of a livable planet
 *   Choose one of the following (their lengths vary):
     *   Mark Scott for Politico EU: "[Why Banning Political Ads on Social Media Misses the Point](https://www.politico.eu/article/facebook-twitter-google-political-ad-ban/)" (2019) - argues that beginning to moderate content for advertising is the beginning of social media companies taking ownership/responsibility over user content generally
@@ -40,12 +28,21 @@ This topic covers factors that impact the content that we see. How do platforms 
     *   Will Oremus for Slate: "[Twitter's New Order](http://www.slate.com/articles/technology/cover_story/2017/03/twitter_s_timeline_algorithm_and_its_effect_on_us_explained.html)" (2017) – much more in depth (not just how but why and future directions) but pretty long
     *   Josh Constine for TechCrunch: "[How Facebook News Feed Works](https://techcrunch.com/2016/09/06/ultimate-guide-to-the-news-feed/)" (2016) before "An Updated List Of News Feed Algorithm Changes"
 
-_Optional bonus readings_
+*Optional bonus readings*
 
 *   Naomi Wu's experience with media manipulation & being "content moderated" off of several funding platforms she had used to make a living: [part 1](https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-my-experience-with-sarah-jeong-jason-koebler-and-vice-magazine-3f4a32fda9b5) and [part 2](https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-part-2-over-the-wall-and-into-the-fire-5e8efc5c1509) – this is very interesting and topical but too long to include in the required reading
 *   [Flame Warriors](https://www.politicsforum.org/flame-warriors/), if you'd like a lighter take, is a tongue-in-cheek characterization of the various types of people moderators encounter
-*   The end of the Casey Newton "[Bodies in Seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)" article, from "Last week, I visited the Tampa site with a photographer." to the end, interesting additional perspective re trying to figure out how this stuff _should_ be done
+*   The end of the Casey Newton "[Bodies in Seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)" article, from "Last week, I visited the Tampa site with a photographer." to the end, interesting additional perspective re trying to figure out how this stuff *should* be done
 
+---
+
+{{< rawhtml >}}
+<img alt="Top-down view into metal pins lit in red/purple" src="/images/blog/08_content_moderation_consent.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+---
 
 ## Experiences of community solely through the internet
 
@@ -270,3 +267,11 @@ An environmental justice framing is not anthropocentric, it's more society-centr
 **KELSEY**: That's definitely something we've talked about before in these discussions, that sense of a need for momentum. We need it to stay motivated, but **making progress for its own sake can be the most harmful thing we do.** On the other hand, I get really frustrated. We can say that it's good theory all we want, but how do you broadly deploy decentralization or bottom-up power without starting at the top?
 
 **DAWN**: Trans-local, non-hierarchical distribution. That's it. That's the way. **They don't scale, because scale is part of the problem**.
+
+---
+
+*Data Together is a community of people imagining a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Participants’ backgrounds range decentralized web protocols, data archiving, ethical frameworks, and citizen science.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes for this month's topic](https://github.com/datatogether/reading_datatogether/blob/main/notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md). Our notes list readings, call out themes, and suggest discussion questions.*
+
+*This blog post is derived from our conversation, but is not a replica of it; we rearrange and paraphrase throughout. You can view the recorded call [here](https://youtu.be/Sb9pJfypvfg).*
