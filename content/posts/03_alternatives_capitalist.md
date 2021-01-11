@@ -6,20 +6,6 @@ draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
 
-*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
-
-*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/sGMMPZbWTxSoG3AyXL3CpA), which includes specific themes and discussion questions (the readings are listed at the end of this post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
-
-*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/VWBiq1K7N4k) for the full discussion!*
-
----
-
-<img alt="Upward view of the sky through a circular opening in an ornate ceiling" src="/images/blog/03_alternatives_capitalist.jpg" width="100%">
-
-*Photo by [mostafa meraji](https://unsplash.com/@mostafa_meraji?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
----
-
 Many of the issues with current data ownership models tie back to monetization: influence from advertisers, reduction in privacy, and concentrated corporate data ownership. These issues are often justified by the imperative to deliver value to shareholders.
 
 If the levers of capitalism place it in opposition to just data practices, can we imagine an alternative? What systems are practiced or envisioned outside of capitalism? What is their power, and what do they center?
@@ -29,6 +15,14 @@ These broad reading selections to look at different visions of not only what a f
 In this session, we range from Kathi Weeks' "The Problem with Work" and an interview of Silvia Federici, both discussing labor history and labor movements through a Marxist and feminist lens; to J.K. Gibson-Graham, Arturo Escobar, and Peter Frase's essays exploring new framings of human relationship to the economy; to imaginaries such as Cory Doctorow's novel Walkaway and pragmatic constructive writings on the cooperative principles.
 
 *Scroll to the bottom of the post for a full list of readings and links.*
+
+---
+
+{{< rawhtml >}}
+<img alt="Upward view of the sky through a circular opening in an ornate ceiling" src="/images/blog/03_alternatives_capitalist.jpg" width="100%">
+{{< /rawhtml >}}
+
+*Photo by [mostafa meraji](https://unsplash.com/@mostafa_meraji?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 ---
 
@@ -48,7 +42,7 @@ Weeks speaks to this, too:
 
 *Weeks, 8:*
 
-> Dreams of individual accomplishment and desires to contribute to the common good become firmly attached to waged work, where they can be hijacked to rather different ends: to produce neither individual riches nor social wealth, but privately appropriated surplus value. 
+> Dreams of individual accomplishment and desires to contribute to the common good become firmly attached to waged work, where they can be hijacked to rather different ends: to produce neither individual riches nor social wealth, but privately appropriated surplus value.
 
 And then at the end of the day, you're too tired to do anything else.
 
@@ -211,7 +205,7 @@ The article by [GEO](http://www.geo.coop/about) offers something as well. This p
 
 *The seven cooperative principles as listed in the [GEO article](http://www.geo.coop/story/cooperative-principles-common-good-and-solidarity) are:*
 > 1. *Voluntary and open membership*
-> 1. *Democratic member control* 
+> 1. *Democratic member control*
 > 1. *Member economic participation*
 > 1. *Autonomy and independence*
 > 1. *Education, training and information*
@@ -443,10 +437,10 @@ There were a lot of books mentioned in this discussion *outside* of the reading 
 
 #### Fiction
 
-* "[The Peripheral](https://www.goodreads.com/book/show/20821159-the-peripheral)" by William Gibson 
+* "[The Peripheral](https://www.goodreads.com/book/show/20821159-the-peripheral)" by William Gibson
 * "[Walkaway](https://www.goodreads.com/book/show/40604388-walkaway)" by Cory Doctorow
 * "[New York 2140](https://www.goodreads.com/book/show/29570143-new-york-2140)" by Kim Stanley Robinson
-* "[Ubik](https://www.goodreads.com/book/show/22590.Ubik)" by Philip K. Dick 
+* "[Ubik](https://www.goodreads.com/book/show/22590.Ubik)" by Philip K. Dick
 * "[Radicalized](https://www.goodreads.com/book/show/41447687-radicalized)" Cory Doctorow
 
 #### Nonfiction
@@ -459,3 +453,11 @@ There were a lot of books mentioned in this discussion *outside* of the reading 
 
 #### Television
 * "[The Orville](https://en.wikipedia.org/wiki/The_Orville)"
+
+---
+
+*Data Together is a community of people building a better future for data. We engage in a monthly [Reading Group](https://github.com/datatogether/reading_datatogether) on themes relevant to information and ethics. Our conversations takes place in a group of about a dozen people whose backgrounds include building decentralized web protocols and tools, archiving environmental data, academic research of ethical frameworks, community creation for citizen science, and more, with a lot of overlap.*
+
+*This reading group is something your own collective can do too! We encourage you to draw on [our notes document template for this month's topic](https://hackmd.io/sGMMPZbWTxSoG3AyXL3CpA), which includes specific themes and discussion questions (the readings are listed at the end of this post). We hope that you’ll link your own discussion notes back to our posts, with any top level points you'd like to share with everyone else pursuing the month’s theme.*
+
+*This blog post is derived from the conversation, but is not a replica of it; we rearrange and paraphrase throughout. See the [recorded call](https://youtu.be/VWBiq1K7N4k) for the full discussion!*
