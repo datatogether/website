@@ -1,7 +1,7 @@
 ---
 title: "Discussion: Content Moderation and Consent (April 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion'"
-date: 2021-01-13T07:00:00-20:00
+date: 2021-01-13T07:00:00-21:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
