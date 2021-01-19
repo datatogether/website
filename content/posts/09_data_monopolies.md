@@ -1,7 +1,7 @@
 ---
 title: "Discussion: Data Monopolies (May 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion"
-date: 2021-01-18T07:00:00-20:00
+date: 2021-01-18T06:00:00-20:00
 draft: false
 authors: ["Kelsey Breseman", "Data Together"]
 ---
