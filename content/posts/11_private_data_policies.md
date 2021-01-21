@@ -1,7 +1,7 @@
 ---
 title: "Discussion: Private Data and Policies (September 2020)"
 tagline: "A Data Together 2020 Reading Group Discussion"
-date: 2021-01-21T07:00:00-23:00
+date: 2021-01-21T01:00:00-23:00
 draft: true
 authors: ["Kelsey Breseman", "Data Together"]
 ---
