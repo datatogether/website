@@ -28,5 +28,6 @@ See the [Join]({{< ref join>}}) page for more information!
 
 Create your own reading group (or self-study) using our materials! Here are previous semesters' reading selections (and associated notes, video recordings, and blog posts):
 
-* [Summer - Fall 2018 Data Together Reading Group]({{< ref "semester_1" >}})
+* [2020 Data Together Reading Group]({{< ref "semester_3" >}})
 * [Spring - Summer 2019 Data Together Reading Group]({{< ref "semester_2" >}})
+* [Summer - Fall 2018 Data Together Reading Group]({{< ref "semester_1" >}})
