@@ -1,7 +1,7 @@
 ---
 title: "Discussing values in a year that tests them"
 tagline: "Data Together 2020"
-date: 2021-01-27T07:00:00-20:00
+date: 2021-01-25T01:00:00-20:00
 draft: false
 authors: ["Kelsey Breseman"]
 ---
