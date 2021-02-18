@@ -1,0 +1,57 @@
+/* Blog */
+.content h2, .content h3 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.content h1 {
+  font-size: 2.5rem;
+}
+
+.content h2 {
+  font-size: 2rem;
+}
+
+.content h3 {
+  font-size: 1.5rem;
+}
+
+.content strong {
+  display: initial;
+  font-family: "Avenir Next", "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.content p {
+  font-size: 1rem;
+}
+
+.content blockquote {
+  font-size: 1rem;
+}
+
+.content ul, .content ol {
+  list-style-type: disc;
+}
+
+.content table td, .content table th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.dropdown-menu {
+  left: auto;
+  right: 0;
+}
+
+.page-title {
+  padding: 150px 0 90px;
+}
+
+.page-title-short {
+  padding: 130px 0 50px;
+}
+
+.footer-section {
+  padding-top: 0px;
+}
