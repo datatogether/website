@@ -1,6 +1,6 @@
 ---
 title: "Decentralized Web Principles Launching at GetDWeb.net"
-date: 2021-02-17T07:00:00-20:00
+date: 2021-02-17T02:00:00-20:00
 draft: false
 authors: ["Kelsey Breseman"]
 ---
